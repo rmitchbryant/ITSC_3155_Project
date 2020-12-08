@@ -1,0 +1,1225 @@
+Area,CancerType,Year,Sex,Race,AgeAdjustedRate,DeathCount,Population
+Nevada,Brain and Other Nervous System,2017,Male and Female,All Races,5,173,2972405
+Idaho,Brain and Other Nervous System,2017,Male and Female,All Races,4.7,95,1718904
+Wyoming,Brain and Other Nervous System,2017,Male and Female,All Races,7.1,46,578934
+Colorado,Brain and Other Nervous System,2017,Male and Female,All Races,4.3,267,5615902
+Georgia,Brain and Other Nervous System,2017,Male and Female,All Races,4.1,458,10413055
+Texas,Brain and Other Nervous System,2017,Male and Female,All Races,4.1,1169,28322717
+Montana,Brain and Other Nervous System,2017,Male and Female,All Races,4.6,64,1053090
+New Mexico,Brain and Other Nervous System,2017,Male and Female,All Races,4.5,113,2093395
+Utah,Brain and Other Nervous System,2017,Male and Female,All Races,4.7,126,3103118
+California,Brain and Other Nervous System,2017,Male and Female,All Races,4.1,1801,39399349
+Alaska,Brain and Other Nervous System,2017,Male and Female,All Races,4.5,33,739786
+Oregon,Brain and Other Nervous System,2017,Male and Female,All Races,4.7,246,4146592
+Virginia,Brain and Other Nervous System,2017,Male and Female,All Races,4.3,415,8465207
+Mississippi,Brain and Other Nervous System,2017,Male and Female,All Races,4.3,156,2989663
+West Virginia,Brain and Other Nervous System,2017,Male and Female,All Races,4.9,117,1817048
+Washington,Brain and Other Nervous System,2017,Male and Female,All Races,5.1,433,7425432
+Tennessee,Brain and Other Nervous System,2017,Male and Female,All Races,5,405,6708794
+Rhode Island,Brain and Other Nervous System,2017,Male and Female,All Races,5.3,72,1056486
+Minnesota,Brain and Other Nervous System,2017,Male and Female,All Races,4.8,307,5568155
+Florida,Brain and Other Nervous System,2017,Male and Female,All Races,4.3,1224,20976812
+Oklahoma,Brain and Other Nervous System,2017,Male and Female,All Races,4.8,215,3932640
+Maryland,Brain and Other Nervous System,2017,Male and Female,All Races,4,278,6024891
+North Carolina,Brain and Other Nervous System,2017,Male and Female,All Races,4.3,517,10270800
+South Dakota,Brain and Other Nervous System,2017,Male and Female,All Races,5.4,59,873286
+Missouri,Brain and Other Nervous System,2017,Male and Female,All Races,4.6,340,6108612
+Maine,Brain and Other Nervous System,2017,Male and Female,All Races,5.1,96,1335063
+Kansas,Brain and Other Nervous System,2017,Male and Female,All Races,5,170,2910689
+Hawaii,Brain and Other Nervous System,2017,Male and Female,All Races,2.9,52,1424203
+District of Columbia,Brain and Other Nervous System,2017,Male and Female,All Races,2.5,18,695691
+North Dakota,Brain and Other Nervous System,2017,Male and Female,All Races,4.2,36,755176
+Delaware,Brain and Other Nervous System,2017,Male and Female,All Races,4.1,51,957078
+Nebraska,Brain and Other Nervous System,2017,Male and Female,All Races,4.9,110,1917575
+Arkansas,Brain and Other Nervous System,2017,Male and Female,All Races,4.3,159,3002997
+Iowa,Brain and Other Nervous System,2017,Male and Female,All Races,4.6,176,3143637
+Wisconsin,Brain and Other Nervous System,2017,Male and Female,All Races,4.9,343,5792051
+Pennsylvania,Brain and Other Nervous System,2017,Male and Female,All Races,4.4,732,12790447
+Kentucky,Brain and Other Nervous System,2017,Male and Female,All Races,4.6,246,4453874
+Alabama,Brain and Other Nervous System,2017,Male and Female,All Races,4.5,272,4875120
+South Carolina,Brain and Other Nervous System,2017,Male and Female,All Races,4.9,295,5021219
+Louisiana,Brain and Other Nervous System,2017,Male and Female,All Races,4.7,252,4670818
+Vermont,Brain and Other Nervous System,2017,Male and Female,All Races,7.4,61,624525
+Arizona,Brain and Other Nervous System,2017,Male and Female,All Races,4.1,344,7048876
+Ohio,Brain and Other Nervous System,2017,Male and Female,All Races,4.9,693,11664129
+New Jersey,Brain and Other Nervous System,2017,Male and Female,All Races,4.3,460,8888543
+New Hampshire,Brain and Other Nervous System,2017,Male and Female,All Races,4.5,77,1349767
+New York,Brain and Other Nervous System,2017,Male and Female,All Races,3.9,922,19590719
+Illinois,Brain and Other Nervous System,2017,Male and Female,All Races,4.1,611,12786196
+Indiana,Brain and Other Nervous System,2017,Male and Female,All Races,4.6,350,6660082
+Massachusetts,Brain and Other Nervous System,2017,Male and Female,All Races,4.8,397,6863246
+Michigan,Brain and Other Nervous System,2017,Male and Female,All Races,4.5,566,9976447
+Connecticut,Brain and Other Nervous System,2017,Male and Female,All Races,4.3,186,3573880
+Nevada,Cervix,2017,Female,All Races,2.3,38,1481115
+Idaho,Cervix,2017,Female,All Races,Data Suppressed,Data Suppressed,857853
+Wyoming,Cervix,2017,Female,All Races,Data Suppressed,Data Suppressed,283606
+Colorado,Cervix,2017,Female,All Races,1.9,55,2789162
+Georgia,Cervix,2017,Female,All Races,2.1,123,5346767
+Montana,Cervix,2017,Female,All Races,Data Suppressed,Data Suppressed,522925
+Texas,Cervix,2017,Female,All Races,3,429,14250938
+New Mexico,Cervix,2017,Female,All Races,2.4,27,1057085
+Utah,Cervix,2017,Female,All Races,2,30,1540313
+California,Cervix,2017,Female,All Races,2.3,490,19817679
+Alaska,Cervix,2017,Female,All Races,Data Suppressed,Data Suppressed,353363
+Oregon,Cervix,2017,Female,All Races,1.9,47,2091356
+Virginia,Cervix,2017,Female,All Races,1.7,83,4299620
+Mississippi,Cervix,2017,Female,All Races,3.6,61,1539413
+West Virginia,Cervix,2017,Female,All Races,2.5,29,917552
+Washington,Cervix,2017,Female,All Races,1.7,72,3711772
+Tennessee,Cervix,2017,Female,All Races,2.5,103,3435687
+Rhode Island,Cervix,2017,Female,All Races,Data Suppressed,Data Suppressed,542930
+Minnesota,Cervix,2017,Female,All Races,1.4,48,2795630
+Florida,Cervix,2017,Female,All Races,2.8,355,10720481
+Oklahoma,Cervix,2017,Female,All Races,4.1,86,1984478
+Maryland,Cervix,2017,Female,All Races,1.7,67,3104138
+North Carolina,Cervix,2017,Female,All Races,1.8,115,5272479
+South Dakota,Cervix,2017,Female,All Races,Data Suppressed,Data Suppressed,432265
+Missouri,Cervix,2017,Female,All Races,2.4,87,3109948
+Maine,Cervix,2017,Female,All Races,Data Suppressed,Data Suppressed,681341
+Kansas,Cervix,2017,Female,All Races,2.1,32,1460471
+Hawaii,Cervix,2017,Female,All Races,Data Suppressed,Data Suppressed,710021
+District of Columbia,Cervix,2017,Female,All Races,Data Suppressed,Data Suppressed,365633
+North Dakota,Cervix,2017,Female,All Races,Data Suppressed,Data Suppressed,368134
+Delaware,Cervix,2017,Female,All Races,3.1,20,494227
+Nebraska,Cervix,2017,Female,All Races,2.2,27,960319
+Arkansas,Cervix,2017,Female,All Races,3.3,55,1527580
+Iowa,Cervix,2017,Female,All Races,1.5,25,1579859
+Wisconsin,Cervix,2017,Female,All Races,1.3,47,2911661
+Pennsylvania,Cervix,2017,Female,All Races,1.8,150,6526911
+Kentucky,Cervix,2017,Female,All Races,2.6,65,2259543
+Alabama,Cervix,2017,Female,All Races,3.1,89,2516043
+South Carolina,Cervix,2017,Female,All Races,2.3,66,2585760
+Louisiana,Cervix,2017,Female,All Races,3.6,96,2388820
+Vermont,Cervix,2017,Female,All Races,Data Suppressed,Data Suppressed,316120
+Arizona,Cervix,2017,Female,All Races,2.1,78,3544856
+Ohio,Cervix,2017,Female,All Races,2.5,174,5947760
+New Jersey,Cervix,2017,Female,All Races,2,114,4548298
+New Hampshire,Cervix,2017,Female,All Races,Data Suppressed,Data Suppressed,681409
+New York,Cervix,2017,Female,All Races,2.1,259,10079494
+Illinois,Cervix,2017,Female,All Races,2.1,157,6504145
+Indiana,Cervix,2017,Female,All Races,2.9,105,3376776
+Michigan,Cervix,2017,Female,All Races,2.1,121,5065155
+Massachusetts,Cervix,2017,Female,All Races,1.1,46,3532186
+Connecticut,Cervix,2017,Female,All Races,1.1,25,1830414
+Nevada,Colon and Rectum,2017,Male and Female,All Races,17.1,575,2972405
+Idaho,Colon and Rectum,2017,Male and Female,All Races,13.2,257,1718904
+Wyoming,Colon and Rectum,2017,Male and Female,All Races,10.4,72,578934
+Colorado,Colon and Rectum,2017,Male and Female,All Races,11.9,705,5615902
+Georgia,Colon and Rectum,2017,Male and Female,All Races,14.6,1610,10413055
+Montana,Colon and Rectum,2017,Male and Female,All Races,12.2,169,1053090
+Texas,Colon and Rectum,2017,Male and Female,All Races,13.7,3831,28322717
+New Mexico,Colon and Rectum,2017,Male and Female,All Races,13.9,355,2093395
+Utah,Colon and Rectum,2017,Male and Female,All Races,10.4,272,3103118
+California,Colon and Rectum,2017,Male and Female,All Races,12.2,5288,39399349
+Alaska,Colon and Rectum,2017,Male and Female,All Races,15.8,105,739786
+Oregon,Colon and Rectum,2017,Male and Female,All Races,12.3,635,4146592
+Virginia,Colon and Rectum,2017,Male and Female,All Races,13.5,1311,8465207
+Mississippi,Colon and Rectum,2017,Male and Female,All Races,17.1,615,2989663
+West Virginia,Colon and Rectum,2017,Male and Female,All Races,15.5,394,1817048
+Tennessee,Colon and Rectum,2017,Male and Female,All Races,14.9,1228,6708794
+Rhode Island,Colon and Rectum,2017,Male and Female,All Races,10.4,144,1056486
+Minnesota,Colon and Rectum,2017,Male and Female,All Races,11.8,788,5568155
+Oklahoma,Colon and Rectum,2017,Male and Female,All Races,16.7,766,3932640
+Florida,Colon and Rectum,2017,Male and Female,All Races,12.9,3966,20976812
+Maryland,Colon and Rectum,2017,Male and Female,All Races,13.3,947,6024891
+North Carolina,Colon and Rectum,2017,Male and Female,All Races,12.5,1529,10270800
+Washington,Colon and Rectum,2017,Male and Female,All Races,12.4,1046,7425432
+South Dakota,Colon and Rectum,2017,Male and Female,All Races,14.3,161,873286
+Missouri,Colon and Rectum,2017,Male and Female,All Races,14.1,1084,6108612
+Maine,Colon and Rectum,2017,Male and Female,All Races,12.5,242,1335063
+Kansas,Colon and Rectum,2017,Male and Female,All Races,14.6,508,2910689
+Hawaii,Colon and Rectum,2017,Male and Female,All Races,11.7,224,1424203
+District of Columbia,Colon and Rectum,2017,Male and Female,All Races,13.5,93,695691
+North Dakota,Colon and Rectum,2017,Male and Female,All Races,11,101,755176
+Delaware,Colon and Rectum,2017,Male and Female,All Races,13.8,172,957078
+Nebraska,Colon and Rectum,2017,Male and Female,All Races,13.6,312,1917575
+Arkansas,Colon and Rectum,2017,Male and Female,All Races,15.5,571,3002997
+Iowa,Colon and Rectum,2017,Male and Female,All Races,13.5,555,3143637
+Wisconsin,Colon and Rectum,2017,Male and Female,All Races,12.3,889,5792051
+Pennsylvania,Colon and Rectum,2017,Male and Female,All Races,14.1,2485,12790447
+Kentucky,Colon and Rectum,2017,Male and Female,All Races,16.7,886,4453874
+Alabama,Colon and Rectum,2017,Male and Female,All Races,15.8,954,4875120
+South Carolina,Colon and Rectum,2017,Male and Female,All Races,13.6,865,5021219
+Louisiana,Colon and Rectum,2017,Male and Female,All Races,16.7,903,4670818
+Vermont,Colon and Rectum,2017,Male and Female,All Races,15.4,128,624525
+Arizona,Colon and Rectum,2017,Male and Female,All Races,12.6,1110,7048876
+Ohio,Colon and Rectum,2017,Male and Female,All Races,15,2206,11664129
+New Jersey,Colon and Rectum,2017,Male and Female,All Races,13.3,1499,8888543
+New Hampshire,Colon and Rectum,2017,Male and Female,All Races,13,235,1349767
+New York,Colon and Rectum,2017,Male and Female,All Races,12.8,3154,19590719
+Illinois,Colon and Rectum,2017,Male and Female,All Races,14.6,2223,12786196
+Indiana,Colon and Rectum,2017,Male and Female,All Races,15.6,1222,6660082
+Massachusetts,Colon and Rectum,2017,Male and Female,All Races,11.4,975,6863246
+Michigan,Colon and Rectum,2017,Male and Female,All Races,13.6,1709,9976447
+Connecticut,Colon and Rectum,2017,Male and Female,All Races,10.1,473,3573880
+Nevada,Esophagus,2017,Male and Female,All Races,3.6,135,2972405
+Idaho,Esophagus,2017,Male and Female,All Races,5,98,1718904
+Wyoming,Esophagus,2017,Male and Female,All Races,3,23,578934
+Colorado,Esophagus,2017,Male and Female,All Races,3.8,228,5615902
+Georgia,Esophagus,2017,Male and Female,All Races,3.5,403,10413055
+Texas,Esophagus,2017,Male and Female,All Races,3,845,28322717
+Montana,Esophagus,2017,Male and Female,All Races,5.4,79,1053090
+New Mexico,Esophagus,2017,Male and Female,All Races,3.6,102,2093395
+Utah,Esophagus,2017,Male and Female,All Races,2.9,80,3103118
+California,Esophagus,2017,Male and Female,All Races,3,1309,39399349
+Alaska,Esophagus,2017,Male and Female,All Races,4.8,35,739786
+Oregon,Esophagus,2017,Male and Female,All Races,4.6,248,4146592
+Virginia,Esophagus,2017,Male and Female,All Races,3.9,393,8465207
+Mississippi,Esophagus,2017,Male and Female,All Races,3.1,113,2989663
+West Virginia,Esophagus,2017,Male and Female,All Races,5.1,136,1817048
+Washington,Esophagus,2017,Male and Female,All Races,4.1,361,7425432
+Tennessee,Esophagus,2017,Male and Female,All Races,4.2,360,6708794
+Rhode Island,Esophagus,2017,Male and Female,All Races,3.5,50,1056486
+Minnesota,Esophagus,2017,Male and Female,All Races,4.1,286,5568155
+Florida,Esophagus,2017,Male and Female,All Races,3.5,1107,20976812
+Oklahoma,Esophagus,2017,Male and Female,All Races,3.9,186,3932640
+Maryland,Esophagus,2017,Male and Female,All Races,3.5,251,6024891
+North Carolina,Esophagus,2017,Male and Female,All Races,3.5,446,10270800
+South Dakota,Esophagus,2017,Male and Female,All Races,5.8,60,873286
+Missouri,Esophagus,2017,Male and Female,All Races,4.8,375,6108612
+Maine,Esophagus,2017,Male and Female,All Races,5.6,112,1335063
+Kansas,Esophagus,2017,Male and Female,All Races,4.6,162,2910689
+Hawaii,Esophagus,2017,Male and Female,All Races,3.2,60,1424203
+District of Columbia,Esophagus,2017,Male and Female,All Races,2.7,18,695691
+North Dakota,Esophagus,2017,Male and Female,All Races,3.3,31,755176
+Delaware,Esophagus,2017,Male and Female,All Races,3.8,51,957078
+Nebraska,Esophagus,2017,Male and Female,All Races,4.6,106,1917575
+Arkansas,Esophagus,2017,Male and Female,All Races,3.4,128,3002997
+Iowa,Esophagus,2017,Male and Female,All Races,4.8,200,3143637
+Wisconsin,Esophagus,2017,Male and Female,All Races,4.4,330,5792051
+Pennsylvania,Esophagus,2017,Male and Female,All Races,4.4,771,12790447
+Kentucky,Esophagus,2017,Male and Female,All Races,5,279,4453874
+Alabama,Esophagus,2017,Male and Female,All Races,4,254,4875120
+South Carolina,Esophagus,2017,Male and Female,All Races,3.7,249,5021219
+Louisiana,Esophagus,2017,Male and Female,All Races,3.8,215,4670818
+Vermont,Esophagus,2017,Male and Female,All Races,5.4,49,624525
+Arizona,Esophagus,2017,Male and Female,All Races,3.7,333,7048876
+Ohio,Esophagus,2017,Male and Female,All Races,4.7,723,11664129
+New Jersey,Esophagus,2017,Male and Female,All Races,3.6,401,8888543
+New Hampshire,Esophagus,2017,Male and Female,All Races,5.9,109,1349767
+New York,Esophagus,2017,Male and Female,All Races,3.5,878,19590719
+Illinois,Esophagus,2017,Male and Female,All Races,4,622,12786196
+Indiana,Esophagus,2017,Male and Female,All Races,4.9,402,6660082
+Massachusetts,Esophagus,2017,Male and Female,All Races,4.4,391,6863246
+Michigan,Esophagus,2017,Male and Female,All Races,4.4,579,9976447
+Connecticut,Esophagus,2017,Male and Female,All Races,3.3,159,3573880
+Nevada,Female Breast,2017,Female,All Races,21.3,368,1481115
+Idaho,Female Breast,2017,Female,All Races,21.6,222,857853
+Wyoming,Female Breast,2017,Female,All Races,16.6,58,283606
+Colorado,Female Breast,2017,Female,All Races,19.3,629,2789162
+Georgia,Female Breast,2017,Female,All Races,21.9,1334,5346767
+Montana,Female Breast,2017,Female,All Races,17.6,130,522925
+Texas,Female Breast,2017,Female,All Races,19.8,2984,14250938
+New Mexico,Female Breast,2017,Female,All Races,20.2,281,1057085
+Utah,Female Breast,2017,Female,All Races,20.2,280,1540313
+California,Female Breast,2017,Female,All Races,19.4,4588,19817679
+Alaska,Female Breast,2017,Female,All Races,16.7,60,353363
+Oregon,Female Breast,2017,Female,All Races,18.3,506,2091356
+Virginia,Female Breast,2017,Female,All Races,21.8,1175,4299620
+Mississippi,Female Breast,2017,Female,All Races,25.5,489,1539413
+West Virginia,Female Breast,2017,Female,All Races,22.2,300,917552
+Tennessee,Female Breast,2017,Female,All Races,21,934,3435687
+Rhode Island,Female Breast,2017,Female,All Races,16.4,125,542930
+Minnesota,Female Breast,2017,Female,All Races,16.7,612,2795630
+Oklahoma,Female Breast,2017,Female,All Races,22.3,556,1984478
+Florida,Female Breast,2017,Female,All Races,18.5,2952,10720481
+Maryland,Female Breast,2017,Female,All Races,21.6,857,3104138
+North Carolina,Female Breast,2017,Female,All Races,21.5,1451,5272479
+Washington,Female Breast,2017,Female,All Races,19.3,888,3711772
+South Dakota,Female Breast,2017,Female,All Races,17.5,102,432265
+Missouri,Female Breast,2017,Female,All Races,21.1,867,3109948
+Maine,Female Breast,2017,Female,All Races,18.5,186,681341
+Kansas,Female Breast,2017,Female,All Races,18.5,345,1460471
+Hawaii,Female Breast,2017,Female,All Races,15.6,155,710021
+District of Columbia,Female Breast,2017,Female,All Races,24.3,92,365633
+North Dakota,Female Breast,2017,Female,All Races,19.5,95,368134
+Nebraska,Female Breast,2017,Female,All Races,19.7,243,960319
+Iowa,Female Breast,2017,Female,All Races,17.9,390,1579859
+Wisconsin,Female Breast,2017,Female,All Races,17.3,679,2911661
+Arkansas,Female Breast,2017,Female,All Races,20.6,414,1527580
+Pennsylvania,Female Breast,2017,Female,All Races,20.7,1984,6526911
+Kentucky,Female Breast,2017,Female,All Races,21.3,633,2259543
+South Carolina,Female Breast,2017,Female,All Races,20.6,695,2585760
+Alabama,Female Breast,2017,Female,All Races,21.2,695,2516043
+Vermont,Female Breast,2017,Female,All Races,17.3,80,316120
+Ohio,Female Breast,2017,Female,All Races,21.9,1758,5947760
+New Jersey,Female Breast,2017,Female,All Races,20,1239,4548298
+Delaware,Female Breast,2017,Female,All Races,22.1,150,494227
+New Hampshire,Female Breast,2017,Female,All Races,16.1,160,681409
+New York,Female Breast,2017,Female,All Races,18.1,2457,10079494
+Illinois,Female Breast,2017,Female,All Races,20.4,1708,6504145
+Indiana,Female Breast,2017,Female,All Races,20.9,902,3376776
+Arizona,Female Breast,2017,Female,All Races,18,830,3544856
+Louisiana,Female Breast,2017,Female,All Races,23.5,692,2388820
+Massachusetts,Female Breast,2017,Female,All Races,18.5,893,3532186
+Michigan,Female Breast,2017,Female,All Races,19.2,1311,5065155
+Connecticut,Female Breast,2017,Female,All Races,18.3,466,1830414
+Nevada,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,2972405
+Idaho,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1718904
+Wyoming,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,578934
+Colorado,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,5615902
+Georgia,Hodgkin Lymphoma,2017,Male and Female,All Races,0.2,21,10413055
+Texas,Hodgkin Lymphoma,2017,Male and Female,All Races,0.3,87,28322717
+Montana,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1053090
+New Mexico,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,2093395
+Utah,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,3103118
+California,Hodgkin Lymphoma,2017,Male and Female,All Races,0.3,127,39399349
+Alaska,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,739786
+Oregon,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,4146592
+Virginia,Hodgkin Lymphoma,2017,Male and Female,All Races,0.2,21,8465207
+Mississippi,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,2989663
+West Virginia,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1817048
+Washington,Hodgkin Lymphoma,2017,Male and Female,All Races,0.2,16,7425432
+Tennessee,Hodgkin Lymphoma,2017,Male and Female,All Races,0.3,26,6708794
+Rhode Island,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1056486
+Minnesota,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,5568155
+Florida,Hodgkin Lymphoma,2017,Male and Female,All Races,0.3,83,20976812
+Oklahoma,Hodgkin Lymphoma,2017,Male and Female,All Races,0.5,22,3932640
+Maryland,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,6024891
+North Carolina,Hodgkin Lymphoma,2017,Male and Female,All Races,0.3,36,10270800
+South Dakota,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,873286
+Missouri,Hodgkin Lymphoma,2017,Male and Female,All Races,0.2,17,6108612
+Maine,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1335063
+Kansas,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,2910689
+Hawaii,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1424203
+District of Columbia,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,695691
+North Dakota,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,755176
+Alabama,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,4875120
+Delaware,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,957078
+Nebraska,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1917575
+Arkansas,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,3002997
+Iowa,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,3143637
+Wisconsin,Hodgkin Lymphoma,2017,Male and Female,All Races,0.3,20,5792051
+Pennsylvania,Hodgkin Lymphoma,2017,Male and Female,All Races,0.2,27,12790447
+Kentucky,Hodgkin Lymphoma,2017,Male and Female,All Races,0.5,28,4453874
+South Carolina,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,5021219
+Louisiana,Hodgkin Lymphoma,2017,Male and Female,All Races,0.4,18,4670818
+Arizona,Hodgkin Lymphoma,2017,Male and Female,All Races,0.3,29,7048876
+Vermont,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,624525
+Ohio,Hodgkin Lymphoma,2017,Male and Female,All Races,0.3,44,11664129
+New Jersey,Hodgkin Lymphoma,2017,Male and Female,All Races,0.2,18,8888543
+New Hampshire,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1349767
+New York,Hodgkin Lymphoma,2017,Male and Female,All Races,0.3,59,19590719
+Illinois,Hodgkin Lymphoma,2017,Male and Female,All Races,0.3,40,12786196
+Indiana,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,6660082
+Michigan,Hodgkin Lymphoma,2017,Male and Female,All Races,0.3,31,9976447
+Massachusetts,Hodgkin Lymphoma,2017,Male and Female,All Races,0.2,19,6863246
+Connecticut,Hodgkin Lymphoma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,3573880
+Nevada,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.6,120,2972405
+Idaho,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.2,83,1718904
+Wyoming,Kidney and Renal Pelvis,2017,Male and Female,All Races,5.3,37,578934
+Colorado,Kidney and Renal Pelvis,2017,Male and Female,All Races,2.7,162,5615902
+Montana,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.3,49,1053090
+Georgia,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.6,402,10413055
+Texas,Kidney and Renal Pelvis,2017,Male and Female,All Races,4,1133,28322717
+New Mexico,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.6,96,2093395
+Utah,Kidney and Renal Pelvis,2017,Male and Female,All Races,3,79,3103118
+California,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.3,1420,39399349
+Alaska,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.7,22,739786
+Oregon,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.6,190,4146592
+Virginia,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.1,312,8465207
+Mississippi,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.4,160,2989663
+West Virginia,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.5,115,1817048
+Washington,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.3,285,7425432
+Tennessee,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.1,338,6708794
+Rhode Island,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.7,50,1056486
+Minnesota,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.4,234,5568155
+Florida,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.1,966,20976812
+Oklahoma,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.8,229,3932640
+Maryland,Kidney and Renal Pelvis,2017,Male and Female,All Races,3,212,6024891
+North Carolina,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.7,459,10270800
+South Dakota,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.9,43,873286
+Missouri,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.4,339,6108612
+Maine,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.5,70,1335063
+Kansas,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.6,156,2910689
+Hawaii,Kidney and Renal Pelvis,2017,Male and Female,All Races,2.4,44,1424203
+District of Columbia,Kidney and Renal Pelvis,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,695691
+North Dakota,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.1,27,755176
+Delaware,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.6,46,957078
+Nebraska,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.8,111,1917575
+Arkansas,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.7,177,3002997
+Iowa,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.4,181,3143637
+Wisconsin,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.9,285,5792051
+Pennsylvania,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.5,621,12790447
+Alabama,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.8,239,4875120
+Kentucky,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.2,230,4453874
+South Carolina,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.3,210,5021219
+Louisiana,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.5,250,4670818
+Vermont,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.4,37,624525
+Arizona,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.7,327,7048876
+Ohio,Kidney and Renal Pelvis,2017,Male and Female,All Races,4,598,11664129
+New Jersey,Kidney and Renal Pelvis,2017,Male and Female,All Races,2.8,322,8888543
+New Hampshire,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.2,58,1349767
+New York,Kidney and Renal Pelvis,2017,Male and Female,All Races,2.8,678,19590719
+Illinois,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.6,548,12786196
+Indiana,Kidney and Renal Pelvis,2017,Male and Female,All Races,4.3,336,6660082
+Michigan,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.7,468,9976447
+Massachusetts,Kidney and Renal Pelvis,2017,Male and Female,All Races,2.8,244,6863246
+Connecticut,Kidney and Renal Pelvis,2017,Male and Female,All Races,3.2,146,3573880
+Nevada,Larynx,2017,Male and Female,All Races,0.6,23,2972405
+Idaho,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1718904
+Wyoming,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,578934
+Colorado,Larynx,2017,Male and Female,All Races,0.6,35,5615902
+Georgia,Larynx,2017,Male and Female,All Races,1.1,122,10413055
+Texas,Larynx,2017,Male and Female,All Races,0.8,237,28322717
+Montana,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1053090
+New Mexico,Larynx,2017,Male and Female,All Races,0.8,20,2093395
+Utah,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,3103118
+California,Larynx,2017,Male and Female,All Races,0.6,249,39399349
+Alaska,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,739786
+Oregon,Larynx,2017,Male and Female,All Races,0.5,27,4146592
+Virginia,Larynx,2017,Male and Female,All Races,1,101,8465207
+Mississippi,Larynx,2017,Male and Female,All Races,1.3,47,2989663
+West Virginia,Larynx,2017,Male and Female,All Races,1.9,51,1817048
+Washington,Larynx,2017,Male and Female,All Races,0.7,60,7425432
+Tennessee,Larynx,2017,Male and Female,All Races,1.2,106,6708794
+Rhode Island,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1056486
+Minnesota,Larynx,2017,Male and Female,All Races,0.5,37,5568155
+Oklahoma,Larynx,2017,Male and Female,All Races,0.9,44,3932640
+Maryland,Larynx,2017,Male and Female,All Races,0.8,58,6024891
+North Carolina,Larynx,2017,Male and Female,All Races,1.1,137,10270800
+Hawaii,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1424203
+Kansas,Larynx,2017,Male and Female,All Races,0.5,20,2910689
+Florida,Larynx,2017,Male and Female,All Races,1.2,355,20976812
+District of Columbia,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,695691
+Missouri,Larynx,2017,Male and Female,All Races,1.1,89,6108612
+Alabama,Larynx,2017,Male and Female,All Races,1.1,75,4875120
+Delaware,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,957078
+Nebraska,Larynx,2017,Male and Female,All Races,1.2,28,1917575
+Arkansas,Larynx,2017,Male and Female,All Races,1.2,48,3002997
+Iowa,Larynx,2017,Male and Female,All Races,1,42,3143637
+Wisconsin,Larynx,2017,Male and Female,All Races,1,77,5792051
+Pennsylvania,Larynx,2017,Male and Female,All Races,1,183,12790447
+South Dakota,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,873286
+Kentucky,Larynx,2017,Male and Female,All Races,1.4,81,4453874
+Maine,Larynx,2017,Male and Female,All Races,1.3,25,1335063
+South Carolina,Larynx,2017,Male and Female,All Races,1.4,95,5021219
+Louisiana,Larynx,2017,Male and Female,All Races,1.2,68,4670818
+Vermont,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,624525
+Arizona,Larynx,2017,Male and Female,All Races,0.7,70,7048876
+Ohio,Larynx,2017,Male and Female,All Races,1.2,187,11664129
+North Dakota,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,755176
+New Jersey,Larynx,2017,Male and Female,All Races,0.8,88,8888543
+New Hampshire,Larynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1349767
+New York,Larynx,2017,Male and Female,All Races,0.8,204,19590719
+Illinois,Larynx,2017,Male and Female,All Races,1,152,12786196
+Indiana,Larynx,2017,Male and Female,All Races,1,79,6660082
+Michigan,Larynx,2017,Male and Female,All Races,1.2,159,9976447
+Massachusetts,Larynx,2017,Male and Female,All Races,0.8,70,6863246
+Connecticut,Larynx,2017,Male and Female,All Races,0.9,40,3573880
+Nevada,Leukemias,2017,Male and Female,All Races,5.8,188,2972405
+Idaho,Leukemias,2017,Male and Female,All Races,6.9,131,1718904
+Wyoming,Leukemias,2017,Male and Female,All Races,4.9,36,578934
+Colorado,Leukemias,2017,Male and Female,All Races,5.4,318,5615902
+Georgia,Leukemias,2017,Male and Female,All Races,6.1,633,10413055
+Montana,Leukemias,2017,Male and Female,All Races,5.9,79,1053090
+Texas,Leukemias,2017,Male and Female,All Races,6.1,1631,28322717
+New Mexico,Leukemias,2017,Male and Female,All Races,4.8,121,2093395
+Utah,Leukemias,2017,Male and Female,All Races,6.2,160,3103118
+California,Leukemias,2017,Male and Female,All Races,5.7,2379,39399349
+Alaska,Leukemias,2017,Male and Female,All Races,4.6,30,739786
+Oregon,Leukemias,2017,Male and Female,All Races,6.9,348,4146592
+Virginia,Leukemias,2017,Male and Female,All Races,5.8,545,8465207
+Mississippi,Leukemias,2017,Male and Female,All Races,6.8,228,2989663
+West Virginia,Leukemias,2017,Male and Female,All Races,7,176,1817048
+Washington,Leukemias,2017,Male and Female,All Races,6.1,502,7425432
+Tennessee,Leukemias,2017,Male and Female,All Races,6.5,515,6708794
+Rhode Island,Leukemias,2017,Male and Female,All Races,6.8,93,1056486
+Minnesota,Leukemias,2017,Male and Female,All Races,6.7,443,5568155
+Florida,Leukemias,2017,Male and Female,All Races,6.2,1876,20976812
+Oklahoma,Leukemias,2017,Male and Female,All Races,6.8,302,3932640
+Maryland,Leukemias,2017,Male and Female,All Races,6.1,420,6024891
+North Carolina,Leukemias,2017,Male and Female,All Races,5.8,684,10270800
+South Dakota,Leukemias,2017,Male and Female,All Races,5.6,62,873286
+Missouri,Leukemias,2017,Male and Female,All Races,6.6,489,6108612
+Maine,Leukemias,2017,Male and Female,All Races,6.9,128,1335063
+Kansas,Leukemias,2017,Male and Female,All Races,7.2,247,2910689
+Hawaii,Leukemias,2017,Male and Female,All Races,5,96,1424203
+District of Columbia,Leukemias,2017,Male and Female,All Races,5.4,37,695691
+North Dakota,Leukemias,2017,Male and Female,All Races,7.5,65,755176
+Nebraska,Leukemias,2017,Male and Female,All Races,6.5,151,1917575
+Arkansas,Leukemias,2017,Male and Female,All Races,6.4,236,3002997
+Wisconsin,Leukemias,2017,Male and Female,All Races,6.6,482,5792051
+Pennsylvania,Leukemias,2017,Male and Female,All Races,6.5,1122,12790447
+Alabama,Leukemias,2017,Male and Female,All Races,6,354,4875120
+Kentucky,Leukemias,2017,Male and Female,All Races,6.9,362,4453874
+South Carolina,Leukemias,2017,Male and Female,All Races,6.2,375,5021219
+Vermont,Leukemias,2017,Male and Female,All Races,5.7,50,624525
+Arizona,Leukemias,2017,Male and Female,All Races,5.9,501,7048876
+Ohio,Leukemias,2017,Male and Female,All Races,6.8,993,11664129
+New Jersey,Leukemias,2017,Male and Female,All Races,6.5,699,8888543
+Delaware,Leukemias,2017,Male and Female,All Races,6.8,88,957078
+New Hampshire,Leukemias,2017,Male and Female,All Races,5.4,97,1349767
+New York,Leukemias,2017,Male and Female,All Races,5.8,1407,19590719
+Iowa,Leukemias,2017,Male and Female,All Races,7,277,3143637
+Illinois,Leukemias,2017,Male and Female,All Races,6.4,939,12786196
+Indiana,Leukemias,2017,Male and Female,All Races,6.6,513,6660082
+Louisiana,Leukemias,2017,Male and Female,All Races,6.3,323,4670818
+Massachusetts,Leukemias,2017,Male and Female,All Races,6,510,6863246
+Michigan,Leukemias,2017,Male and Female,All Races,6.6,816,9976447
+Connecticut,Leukemias,2017,Male and Female,All Races,5.9,270,3573880
+Nevada,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.5,234,2972405
+Idaho,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.9,122,1718904
+Wyoming,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.7,42,578934
+Colorado,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.6,364,5615902
+Georgia,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.5,760,10413055
+Montana,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.3,81,1053090
+Texas,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,8.5,2497,28322717
+New Mexico,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,8,219,2093395
+Utah,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,4.8,127,3103118
+California,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,7.7,3456,39399349
+Alaska,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.2,40,739786
+Oregon,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.6,379,4146592
+Virginia,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6,618,8465207
+Mississippi,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,8.1,297,2989663
+West Virginia,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,7,184,1817048
+Washington,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,7.1,643,7425432
+Tennessee,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,7.6,647,6708794
+Rhode Island,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,7.5,103,1056486
+Minnesota,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.8,388,5568155
+Florida,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.1,1925,20976812
+Oklahoma,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,7.6,375,3932640
+Maryland,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.8,519,6024891
+North Carolina,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.3,818,10270800
+South Dakota,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.5,61,873286
+Missouri,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.7,534,6108612
+Maine,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.5,114,1335063
+Kansas,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.7,207,2910689
+Hawaii,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,7.7,153,1424203
+District of Columbia,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,8.2,58,695691
+North Dakota,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.3,49,755176
+Delaware,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,8.4,115,957078
+Nebraska,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,4.1,100,1917575
+Iowa,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.7,233,3143637
+Wisconsin,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.3,393,5792051
+Arkansas,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.8,266,3002997
+Pennsylvania,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.6,1205,12790447
+Kentucky,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.5,374,4453874
+South Carolina,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.7,450,5021219
+Alabama,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.6,428,4875120
+Vermont,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.4,47,624525
+Arizona,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.3,580,7048876
+Ohio,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.6,1019,11664129
+New Jersey,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.8,662,8888543
+New Hampshire,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.2,94,1349767
+New York,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,5.8,1428,19590719
+Illinois,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.1,956,12786196
+Indiana,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6,499,6660082
+Louisiana,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,9.2,537,4670818
+Massachusetts,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.4,568,6863246
+Michigan,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6.2,840,9976447
+Connecticut,Liver and Intrahepatic Bile Duct,2017,Male and Female,All Races,6,296,3573880
+Idaho,Lung and Bronchus,2017,Male and Female,All Races,30.1,607,1718904
+Wyoming,Lung and Bronchus,2017,Male and Female,All Races,30.6,216,578934
+Colorado,Lung and Bronchus,2017,Male and Female,All Races,24.8,1495,5615902
+Montana,Lung and Bronchus,2017,Male and Female,All Races,32.5,465,1053090
+New Mexico,Lung and Bronchus,2017,Male and Female,All Races,25.6,678,2093395
+Utah,Lung and Bronchus,2017,Male and Female,All Races,17.2,451,3103118
+California,Lung and Bronchus,2017,Male and Female,All Races,26.8,11555,39399349
+Alaska,Lung and Bronchus,2017,Male and Female,All Races,31.3,203,739786
+Oregon,Lung and Bronchus,2017,Male and Female,All Races,35.1,1865,4146592
+Tennessee,Lung and Bronchus,2017,Male and Female,All Races,47.4,4001,6708794
+Nevada,Lung and Bronchus,2017,Male and Female,All Races,38.4,1312,2972405
+Rhode Island,Lung and Bronchus,2017,Male and Female,All Races,39.6,556,1056486
+Minnesota,Lung and Bronchus,2017,Male and Female,All Races,34.1,2316,5568155
+Georgia,Lung and Bronchus,2017,Male and Female,All Races,39,4392,10413055
+Oklahoma,Lung and Bronchus,2017,Male and Female,All Races,46.7,2210,3932640
+Florida,Lung and Bronchus,2017,Male and Female,All Races,35.9,11403,20976812
+Texas,Lung and Bronchus,2017,Male and Female,All Races,32.9,9109,28322717
+Maryland,Lung and Bronchus,2017,Male and Female,All Races,36.1,2575,6024891
+North Carolina,Lung and Bronchus,2017,Male and Female,All Races,41.9,5286,10270800
+Washington,Lung and Bronchus,2017,Male and Female,All Races,34,2928,7425432
+South Dakota,Lung and Bronchus,2017,Male and Female,All Races,38.5,422,873286
+Missouri,Lung and Bronchus,2017,Male and Female,All Races,46.7,3690,6108612
+Maine,Lung and Bronchus,2017,Male and Female,All Races,44.6,919,1335063
+Kansas,Lung and Bronchus,2017,Male and Female,All Races,39.3,1390,2910689
+Hawaii,Lung and Bronchus,2017,Male and Female,All Races,28.4,545,1424203
+Virginia,Lung and Bronchus,2017,Male and Female,All Races,36.8,3710,8465207
+District of Columbia,Lung and Bronchus,2017,Male and Female,All Races,30.4,202,695691
+Mississippi,Lung and Bronchus,2017,Male and Female,All Races,49.3,1804,2989663
+North Dakota,Lung and Bronchus,2017,Male and Female,All Races,34.8,310,755176
+West Virginia,Lung and Bronchus,2017,Male and Female,All Races,49.4,1338,1817048
+Delaware,Lung and Bronchus,2017,Male and Female,All Races,41.3,550,957078
+Arkansas,Lung and Bronchus,2017,Male and Female,All Races,50.9,1954,3002997
+Pennsylvania,Lung and Bronchus,2017,Male and Female,All Races,38.7,6910,12790447
+Iowa,Lung and Bronchus,2017,Male and Female,All Races,39.5,1620,3143637
+Kentucky,Lung and Bronchus,2017,Male and Female,All Races,56.7,3152,4453874
+South Carolina,Lung and Bronchus,2017,Male and Female,All Races,41.1,2700,5021219
+Alabama,Lung and Bronchus,2017,Male and Female,All Races,46.6,2946,4875120
+Vermont,Lung and Bronchus,2017,Male and Female,All Races,39.7,356,624525
+Arizona,Lung and Bronchus,2017,Male and Female,All Races,30.3,2768,7048876
+Ohio,Lung and Bronchus,2017,Male and Female,All Races,44.6,6796,11664129
+New Jersey,Lung and Bronchus,2017,Male and Female,All Races,31.8,3562,8888543
+New Hampshire,Lung and Bronchus,2017,Male and Female,All Races,38.6,700,1349767
+Nebraska,Lung and Bronchus,2017,Male and Female,All Races,35.8,815,1917575
+New York,Lung and Bronchus,2017,Male and Female,All Races,31.6,7821,19590719
+Wisconsin,Lung and Bronchus,2017,Male and Female,All Races,37.6,2802,5792051
+Illinois,Lung and Bronchus,2017,Male and Female,All Races,39.1,6009,12786196
+Indiana,Lung and Bronchus,2017,Male and Female,All Races,47.3,3792,6660082
+Louisiana,Lung and Bronchus,2017,Male and Female,All Races,46.3,2559,4670818
+Massachusetts,Lung and Bronchus,2017,Male and Female,All Races,35.3,3074,6863246
+Michigan,Lung and Bronchus,2017,Male and Female,All Races,42.3,5502,9976447
+Connecticut,Lung and Bronchus,2017,Male and Female,All Races,31.7,1508,3573880
+Nevada,Melanomas of the Skin,2017,Male and Female,All Races,2.6,82,2972405
+Idaho,Melanomas of the Skin,2017,Male and Female,All Races,2.4,48,1718904
+Wyoming,Melanomas of the Skin,2017,Male and Female,All Races,3.8,24,578934
+Colorado,Melanomas of the Skin,2017,Male and Female,All Races,2.7,162,5615902
+Georgia,Melanomas of the Skin,2017,Male and Female,All Races,1.9,201,10413055
+Montana,Melanomas of the Skin,2017,Male and Female,All Races,2.5,35,1053090
+Texas,Melanomas of the Skin,2017,Male and Female,All Races,1.8,495,28322717
+New Mexico,Melanomas of the Skin,2017,Male and Female,All Races,2,50,2093395
+Utah,Melanomas of the Skin,2017,Male and Female,All Races,2.5,68,3103118
+California,Melanomas of the Skin,2017,Male and Female,All Races,1.9,821,39399349
+Alaska,Melanomas of the Skin,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,739786
+Oregon,Melanomas of the Skin,2017,Male and Female,All Races,2.6,133,4146592
+Virginia,Melanomas of the Skin,2017,Male and Female,All Races,2,190,8465207
+Mississippi,Melanomas of the Skin,2017,Male and Female,All Races,1.9,68,2989663
+West Virginia,Melanomas of the Skin,2017,Male and Female,All Races,2.9,71,1817048
+Tennessee,Melanomas of the Skin,2017,Male and Female,All Races,2.6,213,6708794
+Rhode Island,Melanomas of the Skin,2017,Male and Female,All Races,2.3,29,1056486
+Minnesota,Melanomas of the Skin,2017,Male and Female,All Races,1.8,122,5568155
+Oklahoma,Melanomas of the Skin,2017,Male and Female,All Races,2.7,118,3932640
+Florida,Melanomas of the Skin,2017,Male and Female,All Races,2.1,627,20976812
+Maryland,Melanomas of the Skin,2017,Male and Female,All Races,1.6,112,6024891
+North Carolina,Melanomas of the Skin,2017,Male and Female,All Races,2.1,252,10270800
+Washington,Melanomas of the Skin,2017,Male and Female,All Races,2.2,192,7425432
+South Dakota,Melanomas of the Skin,2017,Male and Female,All Races,2.5,26,873286
+Missouri,Melanomas of the Skin,2017,Male and Female,All Races,2.4,174,6108612
+Maine,Melanomas of the Skin,2017,Male and Female,All Races,2.4,46,1335063
+Kansas,Melanomas of the Skin,2017,Male and Female,All Races,2.2,77,2910689
+Hawaii,Melanomas of the Skin,2017,Male and Female,All Races,1,18,1424203
+District of Columbia,Melanomas of the Skin,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,695691
+North Dakota,Melanomas of the Skin,2017,Male and Female,All Races,2.4,21,755176
+Delaware,Melanomas of the Skin,2017,Male and Female,All Races,2.4,29,957078
+Nebraska,Melanomas of the Skin,2017,Male and Female,All Races,2.2,50,1917575
+Arkansas,Melanomas of the Skin,2017,Male and Female,All Races,1.6,59,3002997
+Iowa,Melanomas of the Skin,2017,Male and Female,All Races,2.7,107,3143637
+Wisconsin,Melanomas of the Skin,2017,Male and Female,All Races,2.1,153,5792051
+Pennsylvania,Melanomas of the Skin,2017,Male and Female,All Races,2.4,405,12790447
+Kentucky,Melanomas of the Skin,2017,Male and Female,All Races,2.7,146,4453874
+Alabama,Melanomas of the Skin,2017,Male and Female,All Races,2.3,135,4875120
+South Carolina,Melanomas of the Skin,2017,Male and Female,All Races,2.1,127,5021219
+Louisiana,Melanomas of the Skin,2017,Male and Female,All Races,1.5,77,4670818
+Vermont,Melanomas of the Skin,2017,Male and Female,All Races,2,17,624525
+Arizona,Melanomas of the Skin,2017,Male and Female,All Races,2.2,190,7048876
+Ohio,Melanomas of the Skin,2017,Male and Female,All Races,2.7,384,11664129
+New Jersey,Melanomas of the Skin,2017,Male and Female,All Races,1.9,210,8888543
+New Hampshire,Melanomas of the Skin,2017,Male and Female,All Races,3.4,54,1349767
+New York,Melanomas of the Skin,2017,Male and Female,All Races,1.6,401,19590719
+Illinois,Melanomas of the Skin,2017,Male and Female,All Races,2,300,12786196
+Indiana,Melanomas of the Skin,2017,Male and Female,All Races,2.4,184,6660082
+Massachusetts,Melanomas of the Skin,2017,Male and Female,All Races,2.3,200,6863246
+Michigan,Melanomas of the Skin,2017,Male and Female,All Races,2.1,257,9976447
+Connecticut,Melanomas of the Skin,2017,Male and Female,All Races,1.7,80,3573880
+Nevada,Mesothelioma,2017,Male and Female,All Races,0.5,16,2972405
+Idaho,Mesothelioma,2017,Male and Female,All Races,1.2,22,1718904
+Wyoming,Mesothelioma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,578934
+Colorado,Mesothelioma,2017,Male and Female,All Races,0.6,37,5615902
+Georgia,Mesothelioma,2017,Male and Female,All Races,0.4,43,10413055
+Texas,Mesothelioma,2017,Male and Female,All Races,0.4,115,28322717
+Montana,Mesothelioma,2017,Male and Female,All Races,1.4,21,1053090
+New Mexico,Mesothelioma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,2093395
+Utah,Mesothelioma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,3103118
+California,Mesothelioma,2017,Male and Female,All Races,0.6,247,39399349
+Alaska,Mesothelioma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,739786
+Oregon,Mesothelioma,2017,Male and Female,All Races,0.8,41,4146592
+Virginia,Mesothelioma,2017,Male and Female,All Races,0.8,78,8465207
+Mississippi,Mesothelioma,2017,Male and Female,All Races,0.6,18,2989663
+West Virginia,Mesothelioma,2017,Male and Female,All Races,0.9,22,1817048
+Washington,Mesothelioma,2017,Male and Female,All Races,1.1,89,7425432
+Tennessee,Mesothelioma,2017,Male and Female,All Races,0.7,55,6708794
+Rhode Island,Mesothelioma,2017,Male and Female,All Races,1.5,19,1056486
+Minnesota,Mesothelioma,2017,Male and Female,All Races,0.9,61,5568155
+Oklahoma,Mesothelioma,2017,Male and Female,All Races,0.7,34,3932640
+Florida,Mesothelioma,2017,Male and Female,All Races,0.6,182,20976812
+Maryland,Mesothelioma,2017,Male and Female,All Races,0.6,45,6024891
+North Carolina,Mesothelioma,2017,Male and Female,All Races,0.5,59,10270800
+Hawaii,Mesothelioma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1424203
+Missouri,Mesothelioma,2017,Male and Female,All Races,0.6,41,6108612
+Kansas,Mesothelioma,2017,Male and Female,All Races,0.6,20,2910689
+District of Columbia,Mesothelioma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,695691
+Alabama,Mesothelioma,2017,Male and Female,All Races,0.7,43,4875120
+Nebraska,Mesothelioma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1917575
+Arkansas,Mesothelioma,2017,Male and Female,All Races,0.4,17,3002997
+Iowa,Mesothelioma,2017,Male and Female,All Races,0.6,27,3143637
+Wisconsin,Mesothelioma,2017,Male and Female,All Races,1,70,5792051
+Pennsylvania,Mesothelioma,2017,Male and Female,All Races,0.9,162,12790447
+South Dakota,Mesothelioma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,873286
+Kentucky,Mesothelioma,2017,Male and Female,All Races,0.6,35,4453874
+Maine,Mesothelioma,2017,Male and Female,All Races,1.2,23,1335063
+South Carolina,Mesothelioma,2017,Male and Female,All Races,0.7,45,5021219
+Louisiana,Mesothelioma,2017,Male and Female,All Races,0.8,43,4670818
+Vermont,Mesothelioma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,624525
+Arizona,Mesothelioma,2017,Male and Female,All Races,0.6,52,7048876
+Ohio,Mesothelioma,2017,Male and Female,All Races,0.9,134,11664129
+North Dakota,Mesothelioma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,755176
+New Jersey,Mesothelioma,2017,Male and Female,All Races,0.9,98,8888543
+Delaware,Mesothelioma,2017,Male and Female,All Races,1.6,19,957078
+New Hampshire,Mesothelioma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1349767
+New York,Mesothelioma,2017,Male and Female,All Races,0.5,130,19590719
+Illinois,Mesothelioma,2017,Male and Female,All Races,0.8,116,12786196
+Indiana,Mesothelioma,2017,Male and Female,All Races,0.8,59,6660082
+Michigan,Mesothelioma,2017,Male and Female,All Races,0.9,108,9976447
+Massachusetts,Mesothelioma,2017,Male and Female,All Races,0.9,79,6863246
+Connecticut,Mesothelioma,2017,Male and Female,All Races,0.9,41,3573880
+Nevada,Myeloma,2017,Male and Female,All Races,2.4,78,2972405
+Idaho,Myeloma,2017,Male and Female,All Races,4.1,78,1718904
+Wyoming,Myeloma,2017,Male and Female,All Races,2.4,16,578934
+Colorado,Myeloma,2017,Male and Female,All Races,3.1,178,5615902
+Georgia,Myeloma,2017,Male and Female,All Races,3.6,383,10413055
+Texas,Myeloma,2017,Male and Female,All Races,3.4,915,28322717
+Montana,Myeloma,2017,Male and Female,All Races,3.1,44,1053090
+New Mexico,Myeloma,2017,Male and Female,All Races,2.9,78,2093395
+Utah,Myeloma,2017,Male and Female,All Races,2.9,75,3103118
+California,Myeloma,2017,Male and Female,All Races,2.8,1212,39399349
+Alaska,Myeloma,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,739786
+Oregon,Myeloma,2017,Male and Female,All Races,3.2,167,4146592
+Virginia,Myeloma,2017,Male and Female,All Races,3.3,328,8465207
+Mississippi,Myeloma,2017,Male and Female,All Races,4.2,145,2989663
+West Virginia,Myeloma,2017,Male and Female,All Races,3.1,81,1817048
+Washington,Myeloma,2017,Male and Female,All Races,3,244,7425432
+Tennessee,Myeloma,2017,Male and Female,All Races,3.4,273,6708794
+Rhode Island,Myeloma,2017,Male and Female,All Races,2.7,40,1056486
+Minnesota,Myeloma,2017,Male and Female,All Races,2.9,189,5568155
+Florida,Myeloma,2017,Male and Female,All Races,2.8,879,20976812
+Oklahoma,Myeloma,2017,Male and Female,All Races,3.1,142,3932640
+Maryland,Myeloma,2017,Male and Female,All Races,3.6,258,6024891
+North Carolina,Myeloma,2017,Male and Female,All Races,3.5,431,10270800
+South Dakota,Myeloma,2017,Male and Female,All Races,3.9,43,873286
+Missouri,Myeloma,2017,Male and Female,All Races,3.1,240,6108612
+Maine,Myeloma,2017,Male and Female,All Races,3.4,68,1335063
+Kansas,Myeloma,2017,Male and Female,All Races,3.1,102,2910689
+Hawaii,Myeloma,2017,Male and Female,All Races,2.2,46,1424203
+District of Columbia,Myeloma,2017,Male and Female,All Races,4.6,30,695691
+North Dakota,Myeloma,2017,Male and Female,All Races,2.7,25,755176
+Delaware,Myeloma,2017,Male and Female,All Races,3.4,46,957078
+Nebraska,Myeloma,2017,Male and Female,All Races,2.9,69,1917575
+Arkansas,Myeloma,2017,Male and Female,All Races,3.2,120,3002997
+Iowa,Myeloma,2017,Male and Female,All Races,4,163,3143637
+Wisconsin,Myeloma,2017,Male and Female,All Races,3,223,5792051
+Pennsylvania,Myeloma,2017,Male and Female,All Races,3.3,567,12790447
+Kentucky,Myeloma,2017,Male and Female,All Races,3.2,175,4453874
+Alabama,Myeloma,2017,Male and Female,All Races,3.4,208,4875120
+South Carolina,Myeloma,2017,Male and Female,All Races,4,253,5021219
+Louisiana,Myeloma,2017,Male and Female,All Races,3.8,202,4670818
+Vermont,Myeloma,2017,Male and Female,All Races,2.3,21,624525
+Arizona,Myeloma,2017,Male and Female,All Races,2.9,260,7048876
+Ohio,Myeloma,2017,Male and Female,All Races,3.6,533,11664129
+New Jersey,Myeloma,2017,Male and Female,All Races,3,324,8888543
+New Hampshire,Myeloma,2017,Male and Female,All Races,3,54,1349767
+New York,Myeloma,2017,Male and Female,All Races,2.9,728,19590719
+Illinois,Myeloma,2017,Male and Female,All Races,3.2,479,12786196
+Indiana,Myeloma,2017,Male and Female,All Races,3.3,259,6660082
+Massachusetts,Myeloma,2017,Male and Female,All Races,2.9,250,6863246
+Michigan,Myeloma,2017,Male and Female,All Races,3.7,467,9976447
+Connecticut,Myeloma,2017,Male and Female,All Races,2.6,120,3573880
+Nevada,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.5,174,2972405
+Idaho,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,6.1,119,1718904
+Wyoming,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,4.1,26,578934
+Colorado,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,4.6,267,5615902
+Georgia,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5,515,10413055
+Montana,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,6.3,85,1053090
+Texas,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.1,1347,28322717
+New Mexico,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,4.5,118,2093395
+Utah,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.3,132,3103118
+California,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.2,2222,39399349
+Alaska,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.4,33,739786
+Oregon,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.4,280,4146592
+Virginia,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,4.8,460,8465207
+Mississippi,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,4.7,161,2989663
+West Virginia,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,6.3,162,1817048
+Washington,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.3,449,7425432
+Tennessee,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.5,445,6708794
+Rhode Island,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.3,78,1056486
+Minnesota,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,6.2,420,5568155
+Florida,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,4.9,1550,20976812
+Oklahoma,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,6.2,284,3932640
+Maryland,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5,349,6024891
+North Carolina,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5,597,10270800
+South Dakota,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,6.3,70,873286
+Missouri,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.8,446,6108612
+Maine,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,6.1,120,1335063
+Kansas,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.1,177,2910689
+Hawaii,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,4.5,86,1424203
+District of Columbia,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.5,35,695691
+North Dakota,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,4.7,42,755176
+Delaware,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.5,67,957078
+Nebraska,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,6,135,1917575
+Arkansas,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.3,194,3002997
+Iowa,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.9,241,3143637
+Wisconsin,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,6,444,5792051
+Pennsylvania,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.9,1031,12790447
+Kentucky,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,6.3,340,4453874
+Alabama,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.1,302,4875120
+South Carolina,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,4.8,295,5021219
+Louisiana,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.3,277,4670818
+Vermont,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.4,44,624525
+Arizona,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,4.4,389,7048876
+Ohio,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.8,859,11664129
+New Jersey,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.2,574,8888543
+New Hampshire,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.4,92,1349767
+New York,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.4,1317,19590719
+Illinois,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.2,784,12786196
+Indiana,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.7,446,6660082
+Massachusetts,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.4,454,6863246
+Michigan,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.5,687,9976447
+Connecticut,Non-Hodgkin Lymphoma,2017,Male and Female,All Races,5.1,238,3573880
+Nevada,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.5,87,2972405
+Idaho,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.3,46,1718904
+Wyoming,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.6,19,578934
+Colorado,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.2,144,5615902
+Georgia,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.7,313,10413055
+Montana,Oral Cavity and Pharynx,2017,Male and Female,All Races,3,44,1053090
+Texas,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.5,719,28322717
+Utah,Oral Cavity and Pharynx,2017,Male and Female,All Races,1.7,45,3103118
+New Mexico,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.6,70,2093395
+California,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.4,1050,39399349
+Alaska,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.3,18,739786
+Oregon,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.6,145,4146592
+Virginia,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.6,259,8465207
+Mississippi,Oral Cavity and Pharynx,2017,Male and Female,All Races,3,110,2989663
+West Virginia,Oral Cavity and Pharynx,2017,Male and Female,All Races,3,74,1817048
+Washington,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.7,244,7425432
+Tennessee,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.7,221,6708794
+Rhode Island,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.4,31,1056486
+Minnesota,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.4,167,5568155
+Florida,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.7,829,20976812
+Oklahoma,Oral Cavity and Pharynx,2017,Male and Female,All Races,3.1,142,3932640
+Maryland,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.4,177,6024891
+North Carolina,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.6,328,10270800
+South Dakota,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.8,29,873286
+Missouri,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.7,211,6108612
+Maine,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.1,46,1335063
+Kansas,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.7,97,2910689
+Hawaii,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.7,53,1424203
+District of Columbia,Oral Cavity and Pharynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,695691
+North Dakota,Oral Cavity and Pharynx,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,755176
+Delaware,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.8,38,957078
+Nebraska,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.4,57,1917575
+Arkansas,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.9,107,3002997
+Iowa,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.9,119,3143637
+Wisconsin,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.6,202,5792051
+Pennsylvania,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.5,436,12790447
+Kentucky,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.9,163,4453874
+Alabama,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.8,178,4875120
+South Carolina,Oral Cavity and Pharynx,2017,Male and Female,All Races,3,194,5021219
+Louisiana,Oral Cavity and Pharynx,2017,Male and Female,All Races,3.1,176,4670818
+Vermont,Oral Cavity and Pharynx,2017,Male and Female,All Races,1.8,16,624525
+Arizona,Oral Cavity and Pharynx,2017,Male and Female,All Races,2,181,7048876
+Ohio,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.8,422,11664129
+New Jersey,Oral Cavity and Pharynx,2017,Male and Female,All Races,1.8,209,8888543
+New Hampshire,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.9,53,1349767
+New York,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.2,542,19590719
+Illinois,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.6,412,12786196
+Indiana,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.8,226,6660082
+Michigan,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.6,340,9976447
+Massachusetts,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.4,209,6863246
+Connecticut,Oral Cavity and Pharynx,2017,Male and Female,All Races,2.1,99,3573880
+Nevada,Ovary,2017,Female,All Races,7.2,130,1481115
+Idaho,Ovary,2017,Female,All Races,6.2,68,857853
+Wyoming,Ovary,2017,Female,All Races,8.3,31,283606
+Colorado,Ovary,2017,Female,All Races,5.9,192,2789162
+Georgia,Ovary,2017,Female,All Races,6.3,388,5346767
+Montana,Ovary,2017,Female,All Races,6.1,45,522925
+Texas,Ovary,2017,Female,All Races,6.1,927,14250938
+New Mexico,Ovary,2017,Female,All Races,6.8,97,1057085
+Utah,Ovary,2017,Female,All Races,7.3,101,1540313
+California,Ovary,2017,Female,All Races,6.8,1635,19817679
+Alaska,Ovary,2017,Female,All Races,4.4,17,353363
+Oregon,Ovary,2017,Female,All Races,8.4,238,2091356
+Virginia,Ovary,2017,Female,All Races,7.1,392,4299620
+Mississippi,Ovary,2017,Female,All Races,7,141,1539413
+West Virginia,Ovary,2017,Female,All Races,7.1,97,917552
+Washington,Ovary,2017,Female,All Races,6.7,311,3711772
+Tennessee,Ovary,2017,Female,All Races,7,321,3435687
+Rhode Island,Ovary,2017,Female,All Races,7.1,55,542930
+Minnesota,Ovary,2017,Female,All Races,5.8,217,2795630
+Florida,Ovary,2017,Female,All Races,6.2,1022,10720481
+Oklahoma,Ovary,2017,Female,All Races,8.1,204,1984478
+Maryland,Ovary,2017,Female,All Races,6.1,245,3104138
+North Carolina,Ovary,2017,Female,All Races,6.3,440,5272479
+South Dakota,Ovary,2017,Female,All Races,9.5,51,432265
+Missouri,Ovary,2017,Female,All Races,6,252,3109948
+Maine,Ovary,2017,Female,All Races,7.5,82,681341
+Kansas,Ovary,2017,Female,All Races,7.1,139,1460471
+Hawaii,Ovary,2017,Female,All Races,4.2,43,710021
+District of Columbia,Ovary,2017,Female,All Races,6.3,24,365633
+North Dakota,Ovary,2017,Female,All Races,5.3,26,368134
+Delaware,Ovary,2017,Female,All Races,6.3,46,494227
+Nebraska,Ovary,2017,Female,All Races,7.3,89,960319
+Arkansas,Ovary,2017,Female,All Races,7.7,155,1527580
+Iowa,Ovary,2017,Female,All Races,7.2,159,1579859
+Wisconsin,Ovary,2017,Female,All Races,6.3,258,2911661
+Pennsylvania,Ovary,2017,Female,All Races,7,678,6526911
+Kentucky,Ovary,2017,Female,All Races,5.9,171,2259543
+Alabama,Ovary,2017,Female,All Races,6.8,233,2516043
+South Carolina,Ovary,2017,Female,All Races,5.4,188,2585760
+Louisiana,Ovary,2017,Female,All Races,6,181,2388820
+Vermont,Ovary,2017,Female,All Races,6.3,28,316120
+Arizona,Ovary,2017,Female,All Races,6.6,311,3544856
+Ohio,Ovary,2017,Female,All Races,6.5,547,5947760
+New Jersey,Ovary,2017,Female,All Races,6.7,418,4548298
+New Hampshire,Ovary,2017,Female,All Races,7.4,72,681409
+New York,Ovary,2017,Female,All Races,6.5,890,10079494
+Illinois,Ovary,2017,Female,All Races,7.1,597,6504145
+Indiana,Ovary,2017,Female,All Races,7,308,3376776
+Massachusetts,Ovary,2017,Female,All Races,7.1,337,3532186
+Michigan,Ovary,2017,Female,All Races,6.3,441,5065155
+Connecticut,Ovary,2017,Female,All Races,5.8,155,1830414
+Nevada,Pancreas,2017,Male and Female,All Races,11,380,2972405
+Idaho,Pancreas,2017,Male and Female,All Races,12.3,244,1718904
+Wyoming,Pancreas,2017,Male and Female,All Races,10.4,74,578934
+Colorado,Pancreas,2017,Male and Female,All Races,8.9,551,5615902
+Georgia,Pancreas,2017,Male and Female,All Races,10.4,1156,10413055
+Montana,Pancreas,2017,Male and Female,All Races,10.3,153,1053090
+Texas,Pancreas,2017,Male and Female,All Races,10.1,2815,28322717
+New Mexico,Pancreas,2017,Male and Female,All Races,9.9,268,2093395
+Utah,Pancreas,2017,Male and Female,All Races,8.7,232,3103118
+California,Pancreas,2017,Male and Female,All Races,10.4,4526,39399349
+Alaska,Pancreas,2017,Male and Female,All Races,9.3,61,739786
+Oregon,Pancreas,2017,Male and Female,All Races,12.2,640,4146592
+Virginia,Pancreas,2017,Male and Female,All Races,11.4,1139,8465207
+Mississippi,Pancreas,2017,Male and Female,All Races,13.2,477,2989663
+West Virginia,Pancreas,2017,Male and Female,All Races,10.6,277,1817048
+Washington,Pancreas,2017,Male and Female,All Races,11,945,7425432
+Tennessee,Pancreas,2017,Male and Female,All Races,11.2,935,6708794
+Rhode Island,Pancreas,2017,Male and Female,All Races,11,154,1056486
+Minnesota,Pancreas,2017,Male and Female,All Races,11.6,777,5568155
+Florida,Pancreas,2017,Male and Female,All Races,10.4,3289,20976812
+Oklahoma,Pancreas,2017,Male and Female,All Races,11.1,518,3932640
+Maryland,Pancreas,2017,Male and Female,All Races,11.2,802,6024891
+North Carolina,Pancreas,2017,Male and Female,All Races,10.8,1365,10270800
+South Dakota,Pancreas,2017,Male and Female,All Races,11.5,124,873286
+Missouri,Pancreas,2017,Male and Female,All Races,11.5,904,6108612
+Maine,Pancreas,2017,Male and Female,All Races,11.7,240,1335063
+Kansas,Pancreas,2017,Male and Female,All Races,10.4,372,2910689
+Hawaii,Pancreas,2017,Male and Female,All Races,11.8,225,1424203
+District of Columbia,Pancreas,2017,Male and Female,All Races,11.1,76,695691
+North Dakota,Pancreas,2017,Male and Female,All Races,11.9,104,755176
+Delaware,Pancreas,2017,Male and Female,All Races,12.1,161,957078
+Nebraska,Pancreas,2017,Male and Female,All Races,12,274,1917575
+Arkansas,Pancreas,2017,Male and Female,All Races,11.2,423,3002997
+Iowa,Pancreas,2017,Male and Female,All Races,11.2,462,3143637
+Wisconsin,Pancreas,2017,Male and Female,All Races,11.5,858,5792051
+Pennsylvania,Pancreas,2017,Male and Female,All Races,12.3,2203,12790447
+Kentucky,Pancreas,2017,Male and Female,All Races,10.7,593,4453874
+Alabama,Pancreas,2017,Male and Female,All Races,11.6,714,4875120
+South Carolina,Pancreas,2017,Male and Female,All Races,11.8,768,5021219
+Louisiana,Pancreas,2017,Male and Female,All Races,12.3,672,4670818
+Vermont,Pancreas,2017,Male and Female,All Races,11,101,624525
+Arizona,Pancreas,2017,Male and Female,All Races,10.2,923,7048876
+Ohio,Pancreas,2017,Male and Female,All Races,12.2,1854,11664129
+New Jersey,Pancreas,2017,Male and Female,All Races,11.9,1336,8888543
+New Hampshire,Pancreas,2017,Male and Female,All Races,10.2,189,1349767
+New York,Pancreas,2017,Male and Female,All Races,11.2,2785,19590719
+Illinois,Pancreas,2017,Male and Female,All Races,11.3,1734,12786196
+Indiana,Pancreas,2017,Male and Female,All Races,12.1,955,6660082
+Massachusetts,Pancreas,2017,Male and Female,All Races,11.5,1003,6863246
+Michigan,Pancreas,2017,Male and Female,All Races,12.8,1661,9976447
+Connecticut,Pancreas,2017,Male and Female,All Races,10.8,519,3573880
+Wyoming,Prostate,2017,Male,All Races,13.2,41,295328
+Nevada,Prostate,2017,Male,All Races,17.8,259,1491290
+Texas,Prostate,2017,Male,All Races,17.8,1938,14071779
+Idaho,Prostate,2017,Male,All Races,20,164,861051
+Colorado,Prostate,2017,Male,All Races,21.8,509,2826740
+New Mexico,Prostate,2017,Male,All Races,19.4,218,1036310
+Utah,Prostate,2017,Male,All Races,19.7,212,1562805
+Montana,Prostate,2017,Male,All Races,26.2,160,530165
+Alaska,Prostate,2017,Male,All Races,17,39,386423
+Georgia,Prostate,2017,Male,All Races,21.5,895,5066288
+Oregon,Prostate,2017,Male,All Races,19.8,441,2055236
+Mississippi,Prostate,2017,Male,All Races,26.4,373,1450250
+West Virginia,Prostate,2017,Male,All Races,16.4,177,899496
+Rhode Island,Prostate,2017,Male,All Races,20.4,116,513556
+Oklahoma,Prostate,2017,Male,All Races,20.1,388,1948162
+Maryland,Prostate,2017,Male,All Races,19.6,555,2920753
+Tennessee,Prostate,2017,Male,All Races,20.1,644,3273107
+Missouri,Prostate,2017,Male,All Races,16.9,537,2998664
+California,Prostate,2017,Male,All Races,19.2,3468,19581670
+Florida,Prostate,2017,Male,All Races,16.8,2409,10256331
+South Dakota,Prostate,2017,Male,All Races,15.6,71,441021
+Virginia,Prostate,2017,Male,All Races,19.8,775,4165587
+Washington,Prostate,2017,Male,All Races,19.3,677,3713660
+District of Columbia,Prostate,2017,Male,All Races,22.3,57,330058
+North Dakota,Prostate,2017,Male,All Races,20.2,79,387042
+Minnesota,Prostate,2017,Male,All Races,20.5,582,2772525
+Hawaii,Prostate,2017,Male,All Races,14.5,128,714182
+Arkansas,Prostate,2017,Male,All Races,17.2,267,1475417
+Kansas,Prostate,2017,Male,All Races,18.3,273,1450218
+North Carolina,Prostate,2017,Male,All Races,18.7,910,4998321
+Pennsylvania,Prostate,2017,Male,All Races,18.3,1347,6263536
+Iowa,Prostate,2017,Male,All Races,20,348,1563778
+Kentucky,Prostate,2017,Male,All Races,19.2,404,2194331
+Maine,Prostate,2017,Male,All Races,19.7,167,653722
+South Carolina,Prostate,2017,Male,All Races,21.7,557,2435459
+Alabama,Prostate,2017,Male,All Races,19.3,464,2359077
+Vermont,Prostate,2017,Male,All Races,19.4,70,308405
+Arizona,Prostate,2017,Male,All Races,16.6,663,3504020
+Ohio,Prostate,2017,Male,All Races,19.5,1211,5716369
+New Jersey,Prostate,2017,Male,All Races,17.2,767,4340245
+Delaware,Prostate,2017,Male,All Races,14.9,82,462851
+New Hampshire,Prostate,2017,Male,All Races,19.9,147,668358
+Nebraska,Prostate,2017,Male,All Races,18.3,179,957256
+New York,Prostate,2017,Male,All Races,18.1,1812,9511225
+Wisconsin,Prostate,2017,Male,All Races,20.9,641,2880390
+Illinois,Prostate,2017,Male,All Races,20.6,1273,6282051
+Indiana,Prostate,2017,Male,All Races,18.9,594,3283306
+Louisiana,Prostate,2017,Male,All Races,21.3,461,2281998
+Massachusetts,Prostate,2017,Male,All Races,18.2,640,3331060
+Michigan,Prostate,2017,Male,All Races,17.6,924,4911292
+Connecticut,Prostate,2017,Male,All Races,19.1,373,1743466
+Nevada,Stomach,2017,Male and Female,All Races,2.5,85,2972405
+Idaho,Stomach,2017,Male and Female,All Races,2,40,1718904
+Wyoming,Stomach,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,578934
+Colorado,Stomach,2017,Male and Female,All Races,2.4,141,5615902
+Georgia,Stomach,2017,Male and Female,All Races,2.7,302,10413055
+Montana,Stomach,2017,Male and Female,All Races,2,26,1053090
+Texas,Stomach,2017,Male and Female,All Races,3.5,956,28322717
+New Mexico,Stomach,2017,Male and Female,All Races,3.8,101,2093395
+Utah,Stomach,2017,Male and Female,All Races,2.5,62,3103118
+California,Stomach,2017,Male and Female,All Races,3.8,1640,39399349
+Alaska,Stomach,2017,Male and Female,All Races,3.7,26,739786
+Oregon,Stomach,2017,Male and Female,All Races,1.9,97,4146592
+Virginia,Stomach,2017,Male and Female,All Races,3.1,298,8465207
+Mississippi,Stomach,2017,Male and Female,All Races,3,105,2989663
+West Virginia,Stomach,2017,Male and Female,All Races,2.4,60,1817048
+Washington,Stomach,2017,Male and Female,All Races,2.8,240,7425432
+Tennessee,Stomach,2017,Male and Female,All Races,2.5,199,6708794
+Rhode Island,Stomach,2017,Male and Female,All Races,2.5,33,1056486
+Minnesota,Stomach,2017,Male and Female,All Races,2.2,144,5568155
+Florida,Stomach,2017,Male and Female,All Races,2.7,789,20976812
+Oklahoma,Stomach,2017,Male and Female,All Races,2.5,114,3932640
+Maryland,Stomach,2017,Male and Female,All Races,2.7,190,6024891
+North Carolina,Stomach,2017,Male and Female,All Races,2.9,349,10270800
+South Dakota,Stomach,2017,Male and Female,All Races,2,20,873286
+Missouri,Stomach,2017,Male and Female,All Races,2.2,164,6108612
+Maine,Stomach,2017,Male and Female,All Races,1.5,30,1335063
+Kansas,Stomach,2017,Male and Female,All Races,2.1,70,2910689
+Hawaii,Stomach,2017,Male and Female,All Races,3.4,69,1424203
+District of Columbia,Stomach,2017,Male and Female,All Races,3.3,22,695691
+North Dakota,Stomach,2017,Male and Female,All Races,2.4,21,755176
+Delaware,Stomach,2017,Male and Female,All Races,3.1,40,957078
+Nebraska,Stomach,2017,Male and Female,All Races,2.6,56,1917575
+Arkansas,Stomach,2017,Male and Female,All Races,2.8,102,3002997
+Iowa,Stomach,2017,Male and Female,All Races,2,79,3143637
+Wisconsin,Stomach,2017,Male and Female,All Races,2.3,169,5792051
+Pennsylvania,Stomach,2017,Male and Female,All Races,2.7,455,12790447
+Alabama,Stomach,2017,Male and Female,All Races,2.9,177,4875120
+Kentucky,Stomach,2017,Male and Female,All Races,2.8,153,4453874
+South Carolina,Stomach,2017,Male and Female,All Races,3.3,207,5021219
+Louisiana,Stomach,2017,Male and Female,All Races,3.2,174,4670818
+Vermont,Stomach,2017,Male and Female,All Races,2.6,23,624525
+Arizona,Stomach,2017,Male and Female,All Races,2.4,204,7048876
+Ohio,Stomach,2017,Male and Female,All Races,2.5,364,11664129
+New Jersey,Stomach,2017,Male and Female,All Races,3.1,338,8888543
+New Hampshire,Stomach,2017,Male and Female,All Races,2.1,37,1349767
+New York,Stomach,2017,Male and Female,All Races,3.4,805,19590719
+Illinois,Stomach,2017,Male and Female,All Races,3.2,486,12786196
+Indiana,Stomach,2017,Male and Female,All Races,2.1,166,6660082
+Massachusetts,Stomach,2017,Male and Female,All Races,3.2,269,6863246
+Michigan,Stomach,2017,Male and Female,All Races,2.3,292,9976447
+Connecticut,Stomach,2017,Male and Female,All Races,3.3,159,3573880
+Nevada,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,1491290
+Idaho,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,861051
+Wyoming,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,295328
+Colorado,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,2826740
+Georgia,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,5066288
+Texas,Testis,2017,Male,All Races,0.3,44,14071779
+Montana,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,530165
+New Mexico,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,1036310
+Utah,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,1562805
+California,Testis,2017,Male,All Races,0.4,76,19581670
+Alaska,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,386423
+Oregon,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,2055236
+Virginia,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,4165587
+Mississippi,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,1450250
+West Virginia,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,899496
+Washington,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,3713660
+Tennessee,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,3273107
+Rhode Island,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,513556
+Minnesota,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,2772525
+Oklahoma,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,1948162
+Florida,Testis,2017,Male,All Races,0.2,25,10256331
+Maryland,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,2920753
+North Carolina,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,4998321
+South Dakota,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,441021
+Missouri,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,2998664
+Maine,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,653722
+Kansas,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,1450218
+Hawaii,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,714182
+District of Columbia,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,330058
+North Dakota,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,387042
+Alabama,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,2359077
+Delaware,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,462851
+Nebraska,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,957256
+Arkansas,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,1475417
+Iowa,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,1563778
+Wisconsin,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,2880390
+Pennsylvania,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,6263536
+Kentucky,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,2194331
+South Carolina,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,2435459
+Louisiana,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,2281998
+Arizona,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,3504020
+Vermont,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,308405
+Ohio,Testis,2017,Male,All Races,0.3,16,5716369
+New Jersey,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,4340245
+New Hampshire,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,668358
+New York,Testis,2017,Male,All Races,0.2,22,9511225
+Illinois,Testis,2017,Male,All Races,0.3,18,6282051
+Indiana,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,3283306
+Michigan,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,4911292
+Massachusetts,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,3331060
+Connecticut,Testis,2017,Male,All Races,Data Suppressed,Data Suppressed,1743466
+Nevada,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,2972405
+Idaho,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1718904
+Wyoming,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,578934
+Colorado,Thyroid,2017,Male and Female,All Races,0.7,38,5615902
+Georgia,Thyroid,2017,Male and Female,All Races,0.4,47,10413055
+Montana,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1053090
+Texas,Thyroid,2017,Male and Female,All Races,0.5,134,28322717
+New Mexico,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,2093395
+Utah,Thyroid,2017,Male and Female,All Races,0.6,17,3103118
+California,Thyroid,2017,Male and Female,All Races,0.6,246,39399349
+Alaska,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,739786
+Oregon,Thyroid,2017,Male and Female,All Races,0.5,30,4146592
+Virginia,Thyroid,2017,Male and Female,All Races,0.4,42,8465207
+Mississippi,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,2989663
+West Virginia,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1817048
+Washington,Thyroid,2017,Male and Female,All Races,0.4,37,7425432
+Tennessee,Thyroid,2017,Male and Female,All Races,0.6,49,6708794
+Rhode Island,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1056486
+Minnesota,Thyroid,2017,Male and Female,All Races,0.4,28,5568155
+Florida,Thyroid,2017,Male and Female,All Races,0.4,132,20976812
+Oklahoma,Thyroid,2017,Male and Female,All Races,0.4,19,3932640
+Maryland,Thyroid,2017,Male and Female,All Races,0.4,31,6024891
+North Carolina,Thyroid,2017,Male and Female,All Races,0.5,66,10270800
+South Dakota,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,873286
+Missouri,Thyroid,2017,Male and Female,All Races,0.4,33,6108612
+Maine,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1335063
+Kansas,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,2910689
+Hawaii,Thyroid,2017,Male and Female,All Races,1.1,19,1424203
+District of Columbia,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,695691
+Alabama,Thyroid,2017,Male and Female,All Races,0.3,20,4875120
+North Dakota,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,755176
+Delaware,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,957078
+Nebraska,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1917575
+Arkansas,Thyroid,2017,Male and Female,All Races,0.4,16,3002997
+Iowa,Thyroid,2017,Male and Female,All Races,0.5,21,3143637
+Wisconsin,Thyroid,2017,Male and Female,All Races,0.7,49,5792051
+Pennsylvania,Thyroid,2017,Male and Female,All Races,0.5,85,12790447
+Kentucky,Thyroid,2017,Male and Female,All Races,0.4,25,4453874
+South Carolina,Thyroid,2017,Male and Female,All Races,0.4,25,5021219
+Louisiana,Thyroid,2017,Male and Female,All Races,0.5,29,4670818
+Arizona,Thyroid,2017,Male and Female,All Races,0.4,38,7048876
+Vermont,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,624525
+Ohio,Thyroid,2017,Male and Female,All Races,0.4,62,11664129
+New Jersey,Thyroid,2017,Male and Female,All Races,0.5,59,8888543
+New Hampshire,Thyroid,2017,Male and Female,All Races,Data Suppressed,Data Suppressed,1349767
+New York,Thyroid,2017,Male and Female,All Races,0.5,128,19590719
+Illinois,Thyroid,2017,Male and Female,All Races,0.5,75,12786196
+Indiana,Thyroid,2017,Male and Female,All Races,0.5,38,6660082
+Michigan,Thyroid,2017,Male and Female,All Races,0.4,49,9976447
+Massachusetts,Thyroid,2017,Male and Female,All Races,0.6,47,6863246
+Connecticut,Thyroid,2017,Male and Female,All Races,0.5,22,3573880
+Nevada,Urinary Bladder,2017,Male and Female,All Races,5,161,2972405
+Idaho,Urinary Bladder,2017,Male and Female,All Races,5.1,96,1718904
+Wyoming,Urinary Bladder,2017,Male and Female,All Races,2.6,18,578934
+Colorado,Urinary Bladder,2017,Male and Female,All Races,4,225,5615902
+Georgia,Urinary Bladder,2017,Male and Female,All Races,4.4,459,10413055
+Texas,Urinary Bladder,2017,Male and Female,All Races,3.7,966,28322717
+Montana,Urinary Bladder,2017,Male and Female,All Races,5,71,1053090
+Utah,Urinary Bladder,2017,Male and Female,All Races,3.3,84,3103118
+New Mexico,Urinary Bladder,2017,Male and Female,All Races,3.5,89,2093395
+California,Urinary Bladder,2017,Male and Female,All Races,3.8,1649,39399349
+Alaska,Urinary Bladder,2017,Male and Female,All Races,4.5,27,739786
+Oregon,Urinary Bladder,2017,Male and Female,All Races,4.9,254,4146592
+Virginia,Urinary Bladder,2017,Male and Female,All Races,4.6,440,8465207
+Mississippi,Urinary Bladder,2017,Male and Female,All Races,3.8,129,2989663
+West Virginia,Urinary Bladder,2017,Male and Female,All Races,4.8,125,1817048
+Washington,Urinary Bladder,2017,Male and Female,All Races,4.5,379,7425432
+Tennessee,Urinary Bladder,2017,Male and Female,All Races,4.4,345,6708794
+Rhode Island,Urinary Bladder,2017,Male and Female,All Races,5.1,75,1056486
+Minnesota,Urinary Bladder,2017,Male and Female,All Races,3.8,259,5568155
+Florida,Urinary Bladder,2017,Male and Female,All Races,4.4,1436,20976812
+Oklahoma,Urinary Bladder,2017,Male and Female,All Races,4.6,215,3932640
+Maryland,Urinary Bladder,2017,Male and Female,All Races,4.2,298,6024891
+North Carolina,Urinary Bladder,2017,Male and Female,All Races,3.8,464,10270800
+South Dakota,Urinary Bladder,2017,Male and Female,All Races,4.3,48,873286
+Missouri,Urinary Bladder,2017,Male and Female,All Races,4.3,337,6108612
+Maine,Urinary Bladder,2017,Male and Female,All Races,6.2,124,1335063
+Kansas,Urinary Bladder,2017,Male and Female,All Races,4,143,2910689
+Hawaii,Urinary Bladder,2017,Male and Female,All Races,2.8,53,1424203
+District of Columbia,Urinary Bladder,2017,Male and Female,All Races,4.5,30,695691
+North Dakota,Urinary Bladder,2017,Male and Female,All Races,2.7,26,755176
+Delaware,Urinary Bladder,2017,Male and Female,All Races,3.9,47,957078
+Nebraska,Urinary Bladder,2017,Male and Female,All Races,3.7,88,1917575
+Arkansas,Urinary Bladder,2017,Male and Female,All Races,4.2,159,3002997
+Iowa,Urinary Bladder,2017,Male and Female,All Races,4.2,172,3143637
+Wisconsin,Urinary Bladder,2017,Male and Female,All Races,4.3,322,5792051
+Pennsylvania,Urinary Bladder,2017,Male and Female,All Races,4.5,832,12790447
+Kentucky,Urinary Bladder,2017,Male and Female,All Races,4.9,267,4453874
+Alabama,Urinary Bladder,2017,Male and Female,All Races,4.1,242,4875120
+South Carolina,Urinary Bladder,2017,Male and Female,All Races,4.3,258,5021219
+Louisiana,Urinary Bladder,2017,Male and Female,All Races,3.8,203,4670818
+Vermont,Urinary Bladder,2017,Male and Female,All Races,4.6,41,624525
+Arizona,Urinary Bladder,2017,Male and Female,All Races,4.1,365,7048876
+Ohio,Urinary Bladder,2017,Male and Female,All Races,4.8,725,11664129
+New Jersey,Urinary Bladder,2017,Male and Female,All Races,4.6,530,8888543
+New Hampshire,Urinary Bladder,2017,Male and Female,All Races,5.4,96,1349767
+New York,Urinary Bladder,2017,Male and Female,All Races,4,1001,19590719
+Illinois,Urinary Bladder,2017,Male and Female,All Races,4.4,672,12786196
+Indiana,Urinary Bladder,2017,Male and Female,All Races,4.5,357,6660082
+Massachusetts,Urinary Bladder,2017,Male and Female,All Races,4.9,430,6863246
+Michigan,Urinary Bladder,2017,Male and Female,All Races,4.8,616,9976447
+Connecticut,Urinary Bladder,2017,Male and Female,All Races,4.2,209,3573880
+Wyoming,Corpus and Uterus NOS,2017,Female,All Races,Data Suppressed,Data Suppressed,283606
+Nevada,Corpus and Uterus NOS,2017,Female,All Races,4.6,84,1481115
+Rhode Island,Corpus and Uterus NOS,2017,Female,All Races,5.6,46,542930
+Colorado,Corpus and Uterus NOS,2017,Female,All Races,4,131,2789162
+Georgia,Corpus and Uterus NOS,2017,Female,All Races,5,323,5346767
+Montana,Corpus and Uterus NOS,2017,Female,All Races,4.1,31,522925
+Texas,Corpus and Uterus NOS,2017,Female,All Races,4.4,681,14250938
+Maryland,Corpus and Uterus NOS,2017,Female,All Races,6.3,249,3104138
+Idaho,Corpus and Uterus NOS,2017,Female,All Races,5.5,61,857853
+New Mexico,Corpus and Uterus NOS,2017,Female,All Races,4.3,63,1057085
+Utah,Corpus and Uterus NOS,2017,Female,All Races,4,58,1540313
+California,Corpus and Uterus NOS,2017,Female,All Races,5,1201,19817679
+Alaska,Corpus and Uterus NOS,2017,Female,All Races,Data Suppressed,Data Suppressed,353363
+Oregon,Corpus and Uterus NOS,2017,Female,All Races,4.8,138,2091356
+Virginia,Corpus and Uterus NOS,2017,Female,All Races,4.4,253,4299620
+District of Columbia,Corpus and Uterus NOS,2017,Female,All Races,13,51,365633
+Mississippi,Corpus and Uterus NOS,2017,Female,All Races,3.8,80,1539413
+West Virginia,Corpus and Uterus NOS,2017,Female,All Races,4.3,62,917552
+Tennessee,Corpus and Uterus NOS,2017,Female,All Races,4.2,199,3435687
+Nebraska,Corpus and Uterus NOS,2017,Female,All Races,5.2,60,960319
+Minnesota,Corpus and Uterus NOS,2017,Female,All Races,5,182,2795630
+Arkansas,Corpus and Uterus NOS,2017,Female,All Races,5,103,1527580
+Oklahoma,Corpus and Uterus NOS,2017,Female,All Races,4.8,120,1984478
+Iowa,Corpus and Uterus NOS,2017,Female,All Races,5.3,121,1579859
+Florida,Corpus and Uterus NOS,2017,Female,All Races,4.7,785,10720481
+Wisconsin,Corpus and Uterus NOS,2017,Female,All Races,5.3,210,2911661
+North Carolina,Corpus and Uterus NOS,2017,Female,All Races,5.3,382,5272479
+Pennsylvania,Corpus and Uterus NOS,2017,Female,All Races,5.7,562,6526911
+South Dakota,Corpus and Uterus NOS,2017,Female,All Races,6,34,432265
+Missouri,Corpus and Uterus NOS,2017,Female,All Races,5.3,232,3109948
+Kentucky,Corpus and Uterus NOS,2017,Female,All Races,4.1,123,2259543
+Maine,Corpus and Uterus NOS,2017,Female,All Races,5.4,62,681341
+South Carolina,Corpus and Uterus NOS,2017,Female,All Races,5.3,189,2585760
+Kansas,Corpus and Uterus NOS,2017,Female,All Races,4.7,93,1460471
+Louisiana,Corpus and Uterus NOS,2017,Female,All Races,4.5,144,2388820
+Alabama,Corpus and Uterus NOS,2017,Female,All Races,3.6,123,2516043
+Vermont,Corpus and Uterus NOS,2017,Female,All Races,6.2,30,316120
+Hawaii,Corpus and Uterus NOS,2017,Female,All Races,5.2,46,710021
+Arizona,Corpus and Uterus NOS,2017,Female,All Races,4.2,201,3544856
+Washington,Corpus and Uterus NOS,2017,Female,All Races,4.6,217,3711772
+Ohio,Corpus and Uterus NOS,2017,Female,All Races,5.6,472,5947760
+North Dakota,Corpus and Uterus NOS,2017,Female,All Races,3.8,20,368134
+New Jersey,Corpus and Uterus NOS,2017,Female,All Races,5.9,371,4548298
+Delaware,Corpus and Uterus NOS,2017,Female,All Races,5.3,39,494227
+New Hampshire,Corpus and Uterus NOS,2017,Female,All Races,5.9,61,681409
+New York,Corpus and Uterus NOS,2017,Female,All Races,6,833,10079494
+Illinois,Corpus and Uterus NOS,2017,Female,All Races,5.5,469,6504145
+Indiana,Corpus and Uterus NOS,2017,Female,All Races,4.6,206,3376776
+Massachusetts,Corpus and Uterus NOS,2017,Female,All Races,4.5,225,3532186
+Michigan,Corpus and Uterus NOS,2017,Female,All Races,5.8,416,5065155
+Connecticut,Corpus and Uterus NOS,2017,Female,All Races,4.8,130,1830414

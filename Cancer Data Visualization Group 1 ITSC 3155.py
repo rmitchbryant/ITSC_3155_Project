@@ -10,85 +10,115 @@ df = pd.read_csv('Compiled data.csv')
 
 app = dash.Dash()
 
-# Bar chart
-barchart_df = df[df['Area'] == 'Nevada']
-barchart_df = barchart_df.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
-barchart_df = barchart_df.sort_values(by=['CaseCount'], ascending=[False]).head(20)
-data_barchart = [go.Bar(x=barchart_df['CancerType'], y=barchart_df['CaseCount'])]
-layout = go.Layout(title='Cancer Cases in Nevada', xaxis_title="Cancer Type", yaxis_title="Number of cases")
-
-# Line chart
-linechart_df = df[df['CancerType'] == 'Esophagus']
-linechart_df = linechart_df.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
-linechart_df = linechart_df.sort_values(by=['Population'], ascending=[False])
-data_linechart = [go.Scatter(x=linechart_df['Population'], y=linechart_df['CaseCount'], mode='lines+markers',
-                             name='Cases correlating to Population')]
-
-
 # Layout
 app.layout = html.Div(children=[
-    html.H1(children='Python Dash',
+    html.H1(children='Cancer Rates',
             style={
                 'textAlign': 'center',
                 'color': '#ef3e18'
             }
             ),
-    html.Div('Web dashboard for Data Visualization using Python', style={'textAlign': 'center'}),
+    html.Div('Web dashboard for Visualizing Cancer Rate Data', style={'textAlign': 'center'}),
     html.Br(),
     html.Br(),
     html.Hr(style={'color': '#7FDBFF'}),
-    html.H3('Interactive Bar chart', style={'color': '#df1e56'}),
-    html.Div('This bar chart represents cancer type by state'),
+    html.H3('Interactive Bar chart by state', style={'color': '#df1e56'}),
+    html.Div('This bar chart represents most prevalent cancer type by selected state'),
     dcc.Graph(id='graph1'),
-    html.Div('Please select a type of cancer', style={'color': '#ef3e18', 'margin': '10px'}),
+    html.Div('Please select a state', style={'color': '#ef3e18', 'margin': '10px'}),
     dcc.Dropdown(
         id='select-state',
         options=[
             {'label': 'Nevada', 'value': 'Nevada'},
             {'label': 'Idaho', 'value': 'Idaho'},
             {'label': 'Colorado', 'value': 'Colorado'},
-            {'label': 'Georgia', 'value': 'Georgia'},
+            {'label': 'North Carolina', 'value': 'North Carolina'},
         ],
         value='Nevada'
     ),
     html.Br(),
-    html.Hr(style={'color': '#7FDBFF'}),
-    html.H3('Bar chart', style={'color': '#df1e56'}),
-    html.Div('This bar chart represents the cases of the top 20 cancers found in Nevada'),
-    dcc.Graph(id='graph2',
-              figure={
-                  'data': data_barchart,
-                  'layout': go.Layout(title='Cases of the 20 most populous Cancers in Nevada',
-                                      xaxis={'title': ''}, yaxis={'title': 'Number of cases'})
-              }
-              ),
     html.Br(),
-    html.Hr(style={'color': '7FDBFF'}),
-    html.H3('Line and marker chart', style={'color': 'df1e56'}),
-    html.Div('This line and marker chart represents the cases of Esophagus cancer per population'),
-    dcc.Graph(id='graph3',
-              figure={
-                  'data': data_linechart,
-                  'layout': go.Layout(title='Cases of Esophagus cancer compared to population',
-                                      xaxis={'title': 'Population'}, yaxis={'title': 'Number of cases'})
-              })
+    html.Hr(style={'color': '#7FDBFF'}),
+    html.H3('Interactive Bar chart by cancer type', style={'color': '#df1e56'}),
+    html.Div('This bar chart represents the states with the most prevalent cancer type selected'),
+    dcc.Graph(id='graph2'),
+    html.Div('Please select a cancer type', style={'color': '#ef3e18', 'margin': '10px'}),
+    dcc.Dropdown(
+        id='select-cancer',
+        options=[
+            {'label': 'Brain and Nervous System', 'value': 'Brain and Other Nervous System'},
+            {'label': 'Cervix', 'value': 'Cervix'},
+            {'label': 'Colon and Rectum', 'value': 'Colon and Rectum'},
+            {'label': 'Esophagus', 'value': 'Esophagus'},
+        ],
+        value='Brain and Other Nervous System'
+    ),
+    html.Br(),
+    html.Br(),
+    html.Hr(style={'color': '#7FDBFF'}),
+    html.H3('Interactive Bar chart for cancer type cases and deaths by state', style={'color': '#df1e56'}),
+    html.Div('This bar chart represents the cancer types and deaths by state'),
+    dcc.Graph(id='graph3'),
+    html.Br(),
+    html.Div('Please select a state', style={'color': '#ef3e18', 'margin': '10px'}),
+    dcc.Dropdown(
+        id='select-state-death',
+        options=[
+            {'label': 'Idaho', 'value': 'Idaho'},
+            {'label': 'South Dakota', 'value': 'South Dakota'},
+            {'label': 'Texas', 'value': 'Texas'},
+            {'label': 'Utah', 'value': 'Utah'},
+        ],
+        value='Idaho'
+    )
+
 ])
 
 
-# Interactive graph
+# Interactive graph1
 @app.callback(Output('graph1', 'figure'),
               [Input('select-state', 'value')])
 def update_figure(selected_state):
     filtered_df = df[df['Area'] == selected_state]
-
     filtered_df = filtered_df.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
-    new_df = filtered_df.groupby(['CancerType'])['CaseCount'].sum().reset_index()
-    new_df = new_df.sort_values(by=['CaseCount'], ascending=[False]).head(20)
+    filtered_df['CaseCount'] = pd.to_numeric(filtered_df['CaseCount'], errors='coerce')
+    new_df = filtered_df.sort_values(by=['CaseCount'], ascending=[False])
     data_interactive_barchart = [go.Bar(x=new_df['CancerType'], y=new_df['CaseCount'])]
     return {'data': data_interactive_barchart, 'layout': go.Layout(title='Confirmed Cases in '
                                                                          + selected_state,
-                                                                   xaxis={'title': 'State'},
+                                                                   xaxis={'title': ''},
                                                                    yaxis={'title': 'Case Count'})}
+
+
+# Interactive graph2
+@app.callback(Output('graph2', 'figure'),
+              [Input('select-cancer', 'value')])
+def update_figure(selected_type):
+    filtered_df = df[df['CancerType'] == selected_type]
+    filtered_df = filtered_df.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
+    filtered_df['CaseCount'] = pd.to_numeric(filtered_df['CaseCount'], errors='coerce')
+    new_df = filtered_df.sort_values(by=['CaseCount'], ascending=[False]).head(20)
+    data_interactive_barchart2 = [go.Bar(x=new_df['Area'], y=new_df['CaseCount'], marker={'color': '#CD7f32'})]
+    return {'data': data_interactive_barchart2, 'layout': go.Layout(title='Cases of ' + selected_type + ' Cancer',
+                                                                    xaxis={'title': 'State'},
+                                                                    yaxis={'title': 'Case Count'})}
+
+
+# Interactive graph3
+@app.callback(Output('graph3', 'figure'),
+              [Input('select-state-death', 'value')])
+def update_figure(selected_state_death):
+    filtered_df = df[df['Area'] == selected_state_death]
+    filtered_df = filtered_df.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
+    filtered_df['CaseCount'] = pd.to_numeric(filtered_df['CaseCount'], errors='coerce')
+    filtered_df['DeathCount'] = pd.to_numeric(filtered_df['DeathCount'], errors='coerce')
+    new_df = filtered_df.sort_values(by=['CaseCount'], ascending=[False])
+    trace1 = go.Bar(x=new_df['CancerType'], y=new_df['CaseCount'], name='Cases', marker={'color': '#FFD700'})
+    trace2 = go.Bar(x=new_df['CancerType'], y=new_df['DeathCount'], name='Deaths', marker={'color': '#CD7f32'})
+    data_interactive_barchart3 = [trace1, trace2]
+    return {'data': data_interactive_barchart3, 'layout': go.Layout(title='Cases and Deaths in ' + selected_state_death,
+                                                                    xaxis={'title': ''},
+                                                                    yaxis={'title': 'Count'})}
 
 
 if __name__ == '__main__':

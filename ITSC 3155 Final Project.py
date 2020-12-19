@@ -32,40 +32,51 @@ app.layout = html.Div(children=[
                 'textAlign': 'center'
             }),
     html.Br(),
-    dcc.Dropdown(
-        id='select-cancer',
-        options=[
-            {'label': 'Brain and Nervous System', 'value': 'Brain and Other Nervous System'},
-            {'label': 'Cervix', 'value': 'Cervix'},
-            {'label': 'Colon and Rectum', 'value': 'Colon and Rectum'},
-            {'label': 'Corpus and Uterus', 'value': 'Corpus and Uterus NOS'},
-            {'label': 'Esophagus', 'value': 'Esophagus'},
-            {'label': 'Female Breast', 'value': 'Female Breast'},
-            {'label': 'Hodgkin Lymphoma', 'value': 'Hodgkin Lymphoma'},
-            {'label': 'Kaposi Sarcoma', 'value': 'Kaposi Sarcoma'},
-            {'label': 'Kidney and Renal Pelvis', 'value': 'Kidney and Renal Pelvis'},
-            {'label': 'Larynx', 'value': 'Larynx'},
-            {'label': 'Leukemias', 'value': 'Leukemias'},
-            {'label': 'Liver and Intrahepatic Bile Duct', 'value': 'Liver and Intrahepatic Bile Duct'},
-            {'label': 'Lung and Bronchus', 'value': 'Lung and Bronchus'},
-            {'label': 'Melanomas of the Skin', 'value': 'Melanomas of the Skin'},
-            {'label': 'Mesothelioma', 'value': 'Mesothelioma'},
-            {'label': 'Myeloma', 'value': 'Myeloma'},
-            {'label': 'Non-Hodgkin Lymphoma', 'value': 'Non-Hodgkin Lymphoma'},
-            {'label': 'Oral Cavity and Pharynx', 'value': 'Oral Cavity and Pharynx'},
-            {'label': 'Ovary', 'value': 'Ovary'},
-            {'label': 'Pancreas', 'value': 'Pancreas'},
-            {'label': 'Prostate', 'value': 'Prostate'},
-            {'label': 'Stomach', 'value': 'Stomach'},
-            {'label': 'Testis', 'value': 'Testis'},
-            {'label': 'Thyroid', 'value': 'Thyroid'},
-            {'label': 'Urinary Bladder', 'value': 'Urinary Bladder'}
-        ],
-        placeholder='Select a Cancer Type',
-        style={'margin': 'auto', 'width': '40%'}
-    ),
-    html.Br(),
     dcc.Tabs([
+        dcc.Tab(label='Maps', children=[
+            html.Br(),
+            dcc.Dropdown(
+                id='select-cancer',
+                options=[
+                    {'label': 'Brain and Nervous System', 'value': 'Brain and Other Nervous System'},
+                    {'label': 'Cervix', 'value': 'Cervix'},
+                    {'label': 'Colon and Rectum', 'value': 'Colon and Rectum'},
+                    {'label': 'Corpus and Uterus', 'value': 'Corpus and Uterus NOS'},
+                    {'label': 'Esophagus', 'value': 'Esophagus'},
+                    {'label': 'Female Breast', 'value': 'Female Breast'},
+                    {'label': 'Hodgkin Lymphoma', 'value': 'Hodgkin Lymphoma'},
+                    {'label': 'Kaposi Sarcoma', 'value': 'Kaposi Sarcoma'},
+                    {'label': 'Kidney and Renal Pelvis', 'value': 'Kidney and Renal Pelvis'},
+                    {'label': 'Larynx', 'value': 'Larynx'},
+                    {'label': 'Leukemias', 'value': 'Leukemias'},
+                    {'label': 'Liver and Intrahepatic Bile Duct', 'value': 'Liver and Intrahepatic Bile Duct'},
+                    {'label': 'Lung and Bronchus', 'value': 'Lung and Bronchus'},
+                    {'label': 'Melanomas of the Skin', 'value': 'Melanomas of the Skin'},
+                    {'label': 'Mesothelioma', 'value': 'Mesothelioma'},
+                    {'label': 'Myeloma', 'value': 'Myeloma'},
+                    {'label': 'Non-Hodgkin Lymphoma', 'value': 'Non-Hodgkin Lymphoma'},
+                    {'label': 'Oral Cavity and Pharynx', 'value': 'Oral Cavity and Pharynx'},
+                    {'label': 'Ovary', 'value': 'Ovary'},
+                    {'label': 'Pancreas', 'value': 'Pancreas'},
+                    {'label': 'Prostate', 'value': 'Prostate'},
+                    {'label': 'Stomach', 'value': 'Stomach'},
+                    {'label': 'Testis', 'value': 'Testis'},
+                    {'label': 'Thyroid', 'value': 'Thyroid'},
+                    {'label': 'Urinary Bladder', 'value': 'Urinary Bladder'}
+                ],
+                placeholder='Select a Cancer Type',
+                style={'margin': 'auto', 'width': '40%'}
+            ),
+            html.Br(),
+            dcc.Tabs([
+                dcc.Tab(label='Cases', children=[
+                    dcc.Graph(id='choropleth')
+                ]),
+                dcc.Tab(label='Deaths', children=[
+                    dcc.Graph(id='choropleth1')
+                ])
+            ])
+        ]),
         dcc.Tab(label='Cases vs Deaths', children=[
             dcc.Graph(id='graph',
                       figure={
@@ -74,16 +85,8 @@ app.layout = html.Div(children=[
                                                      'automargin': True},
                                               yaxis={'title': 'Cases vs Deaths'})
                       },
-                      style={'height': '700px',
-                             'margin-bottom': '100px'},
-
+                      style={'height': '600px'},
                       )
-        ]),
-        dcc.Tab(label='Cases', children=[
-            dcc.Graph(id='choropleth')
-        ]),
-        dcc.Tab(label='Deaths', children=[
-            dcc.Graph(id='choropleth1')
         ]),
         dcc.Tab(label='More Information', children=[
             html.Br(),
@@ -200,7 +203,7 @@ app.layout = html.Div(children=[
                        target='_blank'),
                 html.Br(),
                 html.Br(),
-                html.A("Bladder", href='https://www.cancer.net/cancer-types/bladder-cancer/introduction',
+                html.A("Urinary Bladder", href='https://www.cancer.net/cancer-types/bladder-cancer/introduction',
                        target='_blank'),
                 html.Br(),
                 html.Br()

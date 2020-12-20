@@ -5,6 +5,63 @@ from dash.dependencies import Input, Output
 import plotly.graph_objs as go
 import plotly.express as px
 import pandas as pd
+import sqlite3
+from sqlite3 import Error
+from datetime import date
+
+
+def create_connection(file):
+    conn = None
+    try:
+        conn = sqlite3.connect(file)
+    except Error as e:
+        print(e)
+
+    return conn
+
+
+def create_table(conn, create_table_sql):
+    """ create a table from the create_table_sql statement
+    :param conn: Connection object
+    :param create_table_sql: a CREATE TABLE statement
+    :return:
+    """
+    try:
+        c = conn.cursor()
+        c.execute(create_table_sql)
+    except Error as e:
+        print(e)
+
+
+def create_email(conn, email):
+    """
+    Create a new email into the emails table
+    :param conn:
+    :param email:
+    :return: email id
+    """
+    sql = ''' INSERT INTO emails(email,date)
+              VALUES(?,?) '''
+    cur = conn.cursor()
+    cur.execute(sql, email)
+    conn.commit()
+    return cur.lastrowid
+
+
+if __name__ == '__main__':
+    database = r"SQLDatabase.db"
+    conn = create_connection(database)
+
+    sql_create_emails_table = """ CREATE TABLE IF NOT EXISTS emails (
+                                            id integer PRIMARY KEY,
+                                            email text NOT NULL,
+                                            date text
+                                        ); """
+    if conn is not None:
+        # create email table
+        create_table(conn, sql_create_emails_table)
+    else:
+        print("Error! cannot create the database connection.")
 
 df = pd.read_csv('Compiled data.csv')
 
@@ -130,6 +187,16 @@ app.layout = html.Div(style={'background-color': '#567ca7', 'margin': '-21px -8p
                 children=[
                     html.Br(),
                     html.Div(style={'text-align': 'center'}, children=[
+                        html.Div([
+                            html.Br(),
+                            html.Div(id='container-button-basic',
+                                     children='To be added to our mailing list for more information enter your email'
+                                              'and press submit.',
+                                     style={'color': 'white', 'font-family': 'helvetica', 'font-size': '18px',
+                                            'font-weight': 'bold'}),
+                            html.Div(dcc.Input(id='input-on-submit', type='email')),
+                            html.Button('Submit', id='submit-val'),
+                        ]),
                         html.P(
                             "Below is a list of links to Cancer.net where you can find "
                             "much more information on each cancer type.",

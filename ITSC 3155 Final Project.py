@@ -92,17 +92,23 @@ data_barchart = [trace1, trace2]
 
 app.layout = html.Div(style={'background-color': '#567ca7', 'margin': '-21px -8px', 'height': '951px'}, children=[
     html.Br(),
-    html.H1(children='CANCER RATES OF 2017',
+    html.H1(children='KNOW YOUR CANCER',
             style={
                 'text-align': 'center',
                 'color': 'white',
                 'font-family': 'helvetica',
                 'font-size': '40px'
             }),
-    html.H2(children='This page provides data information on cancer throughout the United States',
+    html.H3(children='This site is designed to show the rates of cancer across the U.S., to not only raise awareness'
+                     ' about what types of cancers are affecting your local area, but also to help those who visit our'
+                     ' site find out what the symptoms of those cancers may be in order to protect not only themselves,'
+                     ' but their loved ones. Looking through our site users can find links to more information about'
+                     ' cancer, where a certain type of cancer is most prolific in order to find out what they might'
+                     ' want to get tested for, and what types of cancer could be most effecting their local communities'
+                     ' in order to donate or support those affected by cancer the most',
             title='This information was taken from the CDCs website',
             style={
-                'textAlign': 'center', 'font-family': 'helvetica', 'color': 'white'
+                'textAlign': 'center', 'font-family': 'helvetica', 'color': 'white', 'margin': '20px 350px'
             }),
     html.Br(),
     dcc.Tabs([

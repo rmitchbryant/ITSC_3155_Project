@@ -63,9 +63,23 @@ if __name__ == '__main__':
     else:
         print("Error! cannot create the database connection.")
 
+
 df = pd.read_csv('Compiled data.csv')
 
 app = dash.Dash()
+
+
+@app.callback(
+    dash.dependencies.Output('container-button-basic', 'children'),
+    [dash.dependencies.Input('submit-val', 'n_clicks')],
+    [dash.dependencies.State('input-on-submit', 'value')])
+def update_output(n_clicks, value):
+    conn = create_connection(database)
+    with conn:
+        if value is not None:
+            email = (value, date.today())
+            email_id = create_email(conn, email)
+
 
 # Group bar of deaths vs cases
 filtered_df = df

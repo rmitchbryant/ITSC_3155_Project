@@ -63,7 +63,6 @@ if __name__ == '__main__':
     else:
         print("Error! cannot create the database connection.")
 
-
 df = pd.read_csv('Compiled data.csv')
 
 app = dash.Dash()
@@ -202,14 +201,19 @@ app.layout = html.Div(style={'background-color': '#567ca7', 'margin': '-21px -8p
                     html.Br(),
                     html.Div(style={'text-align': 'center'}, children=[
                         html.Div([
+                            html.P('To be added to our mailing list for more information enter your email'
+                                   ' and press submit.',
+                                   style={'color': 'white', 'font-family': 'helvetica', 'font-size': '18px',
+                                          'font-weight': 'bold'}),
                             html.Br(),
-                            html.Div(id='container-button-basic',
-                                     children='To be added to our mailing list for more information enter your email'
-                                              'and press submit.',
-                                     style={'color': 'white', 'font-family': 'helvetica', 'font-size': '18px',
-                                            'font-weight': 'bold'}),
-                            html.Div(dcc.Input(id='input-on-submit', type='email')),
-                            html.Button('Submit', id='submit-val'),
+                            html.Div(id='container-button-basic'),
+                            html.Div(dcc.Input(id='input-on-submit', type='email', style={'width': '300px',
+                                                                                          'height': '30px',
+                                                                                          'font-size': '18px',
+                                                                                          'font-family': 'helvetica'})),
+                            html.Button('Submit', id='submit-val', style={'margin': '20px', 'width': '100px',
+                                                                          'height': '40px', 'font-size': '18px',
+                                                                          'font-family': 'helvetica'}),
                         ]),
                         html.P(
                             "Below is a list of links to Cancer.net where you can find "

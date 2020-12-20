@@ -40,8 +40,8 @@ def create_email(conn, email):
     :param email:
     :return: email id
     """
-    sql = ''' INSERT INTO emails(email,date)
-              VALUES(?,?) '''
+    sql = ''' INSERT INTO emails(email,date,cancerType)
+              VALUES(?,?,?) '''
     cur = conn.cursor()
     cur.execute(sql, email)
     conn.commit()
@@ -55,7 +55,8 @@ if __name__ == '__main__':
     sql_create_emails_table = """ CREATE TABLE IF NOT EXISTS emails (
                                             id integer PRIMARY KEY,
                                             email text NOT NULL,
-                                            date text
+                                            date text,
+                                            cancerType text
                                         ); """
     if conn is not None:
         # create email table
@@ -69,15 +70,16 @@ df = pd.read_csv('Compiled data.csv')
 app = dash.Dash()
 
 
-@app.callback(
-    dash.dependencies.Output('container-button-basic', 'children'),
-    [dash.dependencies.Input('submit-val', 'n_clicks')],
-    [dash.dependencies.State('input-on-submit', 'value')])
-def update_output(n_clicks, value):
+@app.callback(Output('container-button-basic', 'children'),
+              [Input('submit-val', 'n_clicks'),
+              Input('select-cancer-email', 'cancertype')],
+              dash.dependencies.State('input-on-submit', 'value')
+              )
+def update_output(n_clicks, cancertype, value):
     conn = create_connection(database)
     with conn:
         if value is not None:
-            email = (value, date.today())
+            email = (value, date.today(), 'cancer')
             email_id = create_email(conn, email)
 
 
@@ -165,8 +167,41 @@ app.layout = html.Div(children=[
                 html.Div([
                     html.Div(dcc.Input(id='input-on-submit', type='email')),
                     html.Br(),
+                    dcc.Dropdown(
+                                id='select-cancer-email',
+                                options=[
+                                    {'label': 'Brain and Nervous System', 'value': 'Brain and Other Nervous System'},
+                                    {'label': 'Cervix', 'value': 'Cervix'},
+                                    {'label': 'Colon and Rectum', 'value': 'Colon and Rectum'},
+                                    {'label': 'Corpus and Uterus', 'value': 'Corpus and Uterus NOS'},
+                                    {'label': 'Esophagus', 'value': 'Esophagus'},
+                                    {'label': 'Female Breast', 'value': 'Female Breast'},
+                                    {'label': 'Hodgkin Lymphoma', 'value': 'Hodgkin Lymphoma'},
+                                    {'label': 'Kaposi Sarcoma', 'value': 'Kaposi Sarcoma'},
+                                    {'label': 'Kidney and Renal Pelvis', 'value': 'Kidney and Renal Pelvis'},
+                                    {'label': 'Larynx', 'value': 'Larynx'},
+                                    {'label': 'Leukemias', 'value': 'Leukemias'},
+                                    {'label': 'Liver and Intrahepatic Bile Duct', 'value': 'Liver and Intrahepatic Bile Duct'},
+                                    {'label': 'Lung and Bronchus', 'value': 'Lung and Bronchus'},
+                                    {'label': 'Melanomas of the Skin', 'value': 'Melanomas of the Skin'},
+                                    {'label': 'Mesothelioma', 'value': 'Mesothelioma'},
+                                    {'label': 'Myeloma', 'value': 'Myeloma'},
+                                    {'label': 'Non-Hodgkin Lymphoma', 'value': 'Non-Hodgkin Lymphoma'},
+                                    {'label': 'Oral Cavity and Pharynx', 'value': 'Oral Cavity and Pharynx'},
+                                    {'label': 'Ovary', 'value': 'Ovary'},
+                                    {'label': 'Pancreas', 'value': 'Pancreas'},
+                                    {'label': 'Prostate', 'value': 'Prostate'},
+                                    {'label': 'Stomach', 'value': 'Stomach'},
+                                    {'label': 'Testis', 'value': 'Testis'},
+                                    {'label': 'Thyroid', 'value': 'Thyroid'},
+                                    {'label': 'Urinary Bladder', 'value': 'Urinary Bladder'}
+                                ],
+                                placeholder='Select a Cancer Type',
+                                style={'margin': 'auto', 'width': '40%'}
+                            ),
+                    html.Br(),
                     html.Button('Submit', id='submit-val'),
-                    html.P("Enter your email and press submit to receive updates about cancer."),
+                    html.P("Enter your email and select a type of cancer from the drop-down menu above and press submit to receive updates about that type of cancer."),
                     html.Div(id='container-button-basic',
                              children='Please enter your email and press submit.')]),
                 html.P("Below is a list of links to Cancer.net where you can find much more information on each cancer "

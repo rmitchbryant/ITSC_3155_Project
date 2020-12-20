@@ -91,7 +91,7 @@ trace1 = go.Bar(x=case_df['CancerType'], y=case_df['CaseCount'], name='Cases', m
 trace2 = go.Bar(x=death_df['CancerType'], y=death_df['DeathCount'], name='Deaths', marker={'color': '#CD7F32'})
 data_barchart = [trace1, trace2]
 
-app.layout = html.Div(style={'background-color': '#567ca7', 'margin': '-21px -8px', 'height': '1000px'}, children=[
+app.layout = html.Div(style={'background-color': '#567ca7', 'margin': '-21px -8px', 'height': '951px'}, children=[
     html.Br(),
     html.H1(children='CANCER RATES OF 2017',
             style={
@@ -201,13 +201,16 @@ app.layout = html.Div(style={'background-color': '#567ca7', 'margin': '-21px -8p
                 children=[
                     html.Br(),
                     html.Div(style={'text-align': 'center'}, children=[
-                    html.Div([
-                    html.Div(dcc.Input(id='input-on-submit', type='email')),
-                    html.Br(),
-                    html.Button('Submit', id='submit-val'),
-                    html.P("Enter your email and press submit to receive updates about cancer."),
-                    html.Div(id='container-button-basic',
-                             children='Please enter your email and press submit.')]),
+                        html.Div([
+                            html.Br(),
+                            html.Div(id='container-button-basic',
+                                     children='To be added to our mailing list for more information enter your email'
+                                              'and press submit.',
+                                     style={'color': 'white', 'font-family': 'helvetica', 'font-size': '18px',
+                                            'font-weight': 'bold'}),
+                            html.Div(dcc.Input(id='input-on-submit', type='email')),
+                            html.Button('Submit', id='submit-val'),
+                        ]),
                         html.P(
                             "Below is a list of links to Cancer.net where you can find "
                             "much more information on each cancer type.",
@@ -224,7 +227,7 @@ app.layout = html.Div(style={'background-color': '#567ca7', 'margin': '-21px -8p
                         html.Div(className='flex-container', style={'display': 'flex', 'height': '150px',
                                                                     'flex-wrap': 'wrap', 'justify-content': 'center'},
                                  children=[
-                                     html.A("Brain and Nervous System Cancer",
+                                     html.A("Brain and Nervous System",
                                             href='https://www.cancer.net/cancer-types/brain-tumor/introduction',
                                             target='_blank',
                                             style={'background-color': '#edd139', 'padding': '15px 50px',
@@ -232,7 +235,7 @@ app.layout = html.Div(style={'background-color': '#567ca7', 'margin': '-21px -8p
                                                    'font-family': 'helvetica', 'font-size': '18px',
                                                    'margin': '5px'}),
                                      html.Br(),
-                                     html.A("Breast Cancer",
+                                     html.A("Breast",
                                             href='https://www.cancer.net/cancer-types/breast-cancer/introduction',
                                             target='_blank',
                                             style={'background-color': '#edd139', 'padding': '15px 50px',
@@ -240,7 +243,7 @@ app.layout = html.Div(style={'background-color': '#567ca7', 'margin': '-21px -8p
                                                    'font-family': 'helvetica', 'font-size': '18px',
                                                    'margin': '5px'}),
                                      html.Br(),
-                                     html.A("Cervical Cancer",
+                                     html.A("Cervical",
                                             href='https://www.cancer.net/cancer-types/cervical-cancer/introduction',
                                             target='_blank',
                                             style={'background-color': '#edd139', 'padding': '15px 50px',
@@ -248,7 +251,7 @@ app.layout = html.Div(style={'background-color': '#567ca7', 'margin': '-21px -8p
                                                    'font-family': 'helvetica', 'font-size': '18px',
                                                    'margin': '5px'}),
                                      html.Br(),
-                                     html.A("Colon and Rectal Cancer",
+                                     html.A("Colon and Rectal",
                                             href='https://www.cancer.net/cancer-types/colorectal-cancer/introduction',
                                             target='_blank',
                                             style={'background-color': '#edd139', 'padding': '15px 50px',
@@ -256,7 +259,7 @@ app.layout = html.Div(style={'background-color': '#567ca7', 'margin': '-21px -8p
                                                    'font-family': 'helvetica', 'font-size': '18px',
                                                    'margin': '5px'}),
                                      html.Br(),
-                                     html.A("Uterine Cancer",
+                                     html.A("Uterine",
                                             href='https://www.cancer.net/cancer-types/uterine-cancer/introduction',
                                             target='_blank',
                                             style={'background-color': '#edd139', 'padding': '15px 50px',
@@ -264,7 +267,7 @@ app.layout = html.Div(style={'background-color': '#567ca7', 'margin': '-21px -8p
                                                    'font-family': 'helvetica', 'font-size': '18px',
                                                    'margin': '5px'}),
                                      html.Br(),
-                                     html.A("Esophageal Cancer",
+                                     html.A("Esophageal",
                                             href='https://www.cancer.net/cancer-types/esophageal-cancer/introduction',
                                             target='_blank',
                                             style={'background-color': '#edd139', 'padding': '15px 50px',
